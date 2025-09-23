@@ -1,0 +1,1629 @@
+{
+  "version": "1.0.0",
+  "minecraft_version": "1.20.1",
+  "loader": "fabric",
+  "loader_version": "0.17.2",
+  "last_updated": "2025-09-21T16:44:06.904Z",
+  "mods": [
+    {
+      "id": "addonslib-fabric",
+      "name": "Addonslib Fabric",
+      "version": "1.20.1-1.5",
+      "filename": "addonslib-fabric-1.20.1-1.5.jar",
+      "checksum": "2805d173dd5b2882bc6edd3aec28e0040f52d1d0a07814c0a23a1daa2f4e0e25",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1090999/files/6400713/download",
+      "required": true,
+      "description": "Addonslib Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "advancementplaques",
+      "name": "AdvancementPlaques",
+      "version": "1.6.7",
+      "filename": "AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
+      "checksum": "a162aa8d872f5327405ba1ce1d601a825eb36f530e61d5fcae6c8d83d7107d94",
+      "download_url": "https://www.curseforge.com/api/v1/mods/514882/files/5762252/download",
+      "required": true,
+      "description": "AdvancementPlaques 1.20.1-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "ad-astra-fabric",
+      "name": "Ad Astra Fabric",
+      "version": "1.20.1-1.15.20",
+      "filename": "ad_astra-fabric-1.20.1-1.15.20.jar",
+      "checksum": "a8e35d0c92e50b13fb9cd07217f55f580e64a14178f82fcdfea47109a1678246",
+      "download_url": "https://www.curseforge.com/api/v1/mods/635042/files/6262034/download",
+      "required": true,
+      "description": "Ad Astra Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "another-furniture-fabric",
+      "name": "Another Furniture Fabric",
+      "version": "1.20.1-3.0.1",
+      "filename": "another_furniture-fabric-1.20.1-3.0.1.jar",
+      "checksum": "7edd08c7c9d627514e1008ea8631511402609251f53b8c3470278fc69f7c7ae5",
+      "download_url": "https://www.curseforge.com/api/v1/mods/610492/files/4815126/download",
+      "required": true,
+      "description": "Another Furniture Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "appleskin-fabric-mc1-20-1",
+      "name": "Appleskin Fabric Mc1.20.1",
+      "version": "2.5.1",
+      "filename": "appleskin-fabric-mc1.20.1-2.5.1.jar",
+      "checksum": "85e23a429634048a2e9addc808914c1c43083083f5e21f2bf3c39c49e5af38b5",
+      "download_url": "https://www.curseforge.com/api/v1/mods/248787/files/4770825/download",
+      "required": true,
+      "description": "Appleskin Fabric Mc1.20.1 2.5.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "appliedenergistics2-fabric",
+      "name": "Appliedenergistics2 Fabric",
+      "version": "15.4.8",
+      "filename": "appliedenergistics2-fabric-15.4.8.jar",
+      "checksum": "0a04415289bd219511bcf2d3fa076702d583a35c4f09f6e76d1bee6a63d93ba2",
+      "download_url": "https://www.curseforge.com/api/v1/mods/223794/files/6852915/download",
+      "required": true,
+      "description": "Appliedenergistics2 Fabric 15.4.8 para Minecraft 1.20.1"
+    },
+    {
+      "id": "architectury",
+      "name": "Architectury",
+      "version": "9.2.14-fabric",
+      "filename": "architectury-9.2.14-fabric.jar",
+      "checksum": "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321",
+      "download_url": "https://www.curseforge.com/api/v1/mods/419699/files/5137936/download",
+      "required": true,
+      "description": "Architectury 9.2.14-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "arsenal",
+      "name": "Arsenal",
+      "version": "0.1.5",
+      "filename": "arsenal-0.1.5-1.20.1.jar",
+      "checksum": "b09316aab3047888e799f30a2ec5561a90cfd8641e4d67074ef2046bf4857f04",
+      "download_url": "https://cdn.modrinth.com/data/SQhWMwht/versions/otYYNz4L/arsenal-0.1.5-1.20.1.jar",
+      "required": true,
+      "description": "Arsenal 0.1.5 para Minecraft 1.20.1"
+    },
+    {
+      "id": "artifacts-fabric",
+      "name": "Artifacts Fabric",
+      "version": "9.5.15",
+      "filename": "artifacts-fabric-9.5.15.jar",
+      "checksum": "85740411120632af463d0f8537e651e6a08f59f9457f4e40f475b3b863950bab",
+      "download_url": "https://www.curseforge.com/api/v1/mods/312353/files/6351710/download",
+      "required": true,
+      "description": "Artifacts Fabric 9.5.15 para Minecraft 1.20.1"
+    },
+    {
+      "id": "athena-fabric",
+      "name": "Athena Fabric",
+      "version": "1.20.1-3.1.2",
+      "filename": "athena-fabric-1.20.1-3.1.2.jar",
+      "checksum": "da18e81a3b72263a67c40e325537c587b48fff2fabb625c612ca4d7c2f386ecd",
+      "download_url": "https://www.curseforge.com/api/v1/mods/841890/files/5176880/download",
+      "required": true,
+      "description": "Athena Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "attributefix-fabric",
+      "name": "AttributeFix Fabric",
+      "version": "1.20.1-21.0.4",
+      "filename": "AttributeFix-Fabric-1.20.1-21.0.4.jar",
+      "checksum": "40583a0336c3106cae0624045fee09f1e271fc5840f4e6b21cec7867de176059",
+      "download_url": "https://www.curseforge.com/api/v1/mods/280510/files/4911083/download",
+      "required": true,
+      "description": "AttributeFix Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "balm-fabric",
+      "name": "Balm Fabric",
+      "version": "1.20.1-7.3.35",
+      "filename": "balm-fabric-1.20.1-7.3.35.jar",
+      "checksum": "552d251f42fe63e2848d6cc26a7014829aff5f2736e3c93546867cd2aa803fb8",
+      "download_url": "https://www.curseforge.com/api/v1/mods/500525/files/6978672/download",
+      "required": true,
+      "description": "Balm Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "bclib",
+      "name": "Bclib",
+      "version": "3.0.14",
+      "filename": "bclib-3.0.14.jar",
+      "checksum": "391fa2a8d7e369b088c66d1f230c3951e1d83f19d60555b2efea5394d8bcfc51",
+      "download_url": "https://www.curseforge.com/api/v1/mods/495191/files/4971470/download",
+      "required": true,
+      "description": "Bclib 3.0.14 para Minecraft 1.20.1"
+    },
+    {
+      "id": "beekeeperhut-fabric-mc1-20-1",
+      "name": "Beekeeperhut Fabric Mc1.20.1",
+      "version": "2.0.1",
+      "filename": "beekeeperhut-fabric-mc1.20.1-2.0.1.jar",
+      "checksum": "0414790a1300825f5e0bd760e838af4a4794b477931627cb48f5db06ab4287cd",
+      "download_url": "https://www.curseforge.com/api/v1/mods/711899/files/5523311/download",
+      "required": true,
+      "description": "Beekeeperhut Fabric Mc1.20.1 2.0.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "better-end",
+      "name": "Better End",
+      "version": "4.0.11",
+      "filename": "better-end-4.0.11.jar",
+      "checksum": "285feee4a2602ac66f7b4d92f0d972ac872aec513c2b61a8f6f447ca3dc08420",
+      "download_url": "https://www.curseforge.com/api/v1/mods/413596/files/4971487/download",
+      "required": true,
+      "description": "Better End 4.0.11 para Minecraft 1.20.1"
+    },
+    {
+      "id": "better-nether",
+      "name": "Better Nether",
+      "version": "9.0.10",
+      "filename": "better-nether-9.0.10.jar",
+      "checksum": "a516b6be2576292639ee21c495be6cae3a9e3c5e9c84c6fbab092895c314fe64",
+      "download_url": "https://www.curseforge.com/api/v1/mods/311377/files/4971478/download",
+      "required": true,
+      "description": "Better Nether 9.0.10 para Minecraft 1.20.1"
+    },
+    {
+      "id": "betterf3",
+      "name": "BetterF3",
+      "version": "7.0.2-Fabric",
+      "filename": "BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "checksum": "c9282b371c61fa04f329cc57719b1e221d65c057a70dcb93d1d2b430168fda46",
+      "download_url": "https://www.curseforge.com/api/v1/mods/401648/files/4863625/download",
+      "required": true,
+      "description": "BetterF3 7.0.2-Fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "biomesoplenty-fabric",
+      "name": "BiomesOPlenty Fabric",
+      "version": "1.20.1-19.0.0.96",
+      "filename": "BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar",
+      "checksum": "5da394d30ef3783908c6a771c833e4c00e589f65c4b9ece55a398cb3c9b47fbe",
+      "download_url": "https://www.curseforge.com/api/v1/mods/220318/files/6364066/download",
+      "required": true,
+      "description": "BiomesOPlenty Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "bookshelf-fabric",
+      "name": "Bookshelf Fabric",
+      "version": "1.20.1-20.2.13",
+      "filename": "Bookshelf-Fabric-1.20.1-20.2.13.jar",
+      "checksum": "4da44061c9daf2c8b44531609f381b9b92bb207d9709753ead3b6ef1f6adcd7a",
+      "download_url": "https://www.curseforge.com/api/v1/mods/228525/files/5423988/download",
+      "required": true,
+      "description": "Bookshelf Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "botarium-fabric",
+      "name": "Botarium Fabric",
+      "version": "1.20.1-2.3.4",
+      "filename": "botarium-fabric-1.20.1-2.3.4.jar",
+      "checksum": "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324",
+      "download_url": "https://www.curseforge.com/api/v1/mods/704113/files/5486071/download",
+      "required": true,
+      "description": "Botarium Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "cardinal-components-api",
+      "name": "Cardinal Components Api",
+      "version": "5.2.3",
+      "filename": "cardinal-components-api-5.2.3.jar",
+      "checksum": "ff1e33adde43c3e01f7e9a673cbb7f3a75453e769f80a38b057653475e296aa2",
+      "download_url": "https://www.curseforge.com/api/v1/mods/318449/files/6064429/download",
+      "required": true,
+      "description": "Cardinal Components Api 5.2.3 para Minecraft 1.20.1"
+    },
+    {
+      "id": "carryon-fabric",
+      "name": "Carryon Fabric",
+      "version": "1.20.1-2.1.2.7",
+      "filename": "carryon-fabric-1.20.1-2.1.2.7.jar",
+      "checksum": "8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd",
+      "download_url": "https://www.curseforge.com/api/v1/mods/274259/files/4882498/download",
+      "required": true,
+      "description": "Carryon Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "charmofundying-fabric",
+      "name": "Charmofundying Fabric",
+      "version": "6.5.0",
+      "filename": "charmofundying-fabric-6.5.0+1.20.1.jar",
+      "checksum": "04c9dac42ebcedbc47c8f26fca43feaeaa0ed88eb4e7f40dabc9213028f3d934",
+      "download_url": "https://www.curseforge.com/api/v1/mods/316873/files/5159191/download",
+      "required": true,
+      "description": "Charmofundying Fabric 6.5.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "chat-heads",
+      "name": "Chat Heads",
+      "version": "0.13.18-fabric",
+      "filename": "chat_heads-0.13.18-fabric-1.20.jar",
+      "checksum": "1a83ff5edf42a40ab05fe7cb64c8ab1ace9f0d818ba00f1e8631021482751e4f",
+      "download_url": "https://www.curseforge.com/api/v1/mods/407206/files/6483022/download",
+      "required": true,
+      "description": "Chat Heads 0.13.18-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "chimes-v2-0-1",
+      "name": "Chimes V2.0.1",
+      "version": "2.0.1",
+      "filename": "Chimes-v2.0.1-1.20.1-Fabric.jar",
+      "checksum": "3faf03d1999768fc2568c33fa87eb815557b74a2fc14b6a120f40312a805249b",
+      "download_url": "https://www.curseforge.com/api/v1/mods/350464/files/4671968/download",
+      "required": true,
+      "description": "Chimes V2.0.1 1.20.1-Fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "chipped-fabric",
+      "name": "Chipped Fabric",
+      "version": "1.20.1-3.0.7",
+      "filename": "chipped-fabric-1.20.1-3.0.7.jar",
+      "checksum": "b1af1f1a653a65b200c5fd547c59a97e176f6d5b2e41519596f7a30394d4f330",
+      "download_url": "https://www.curseforge.com/api/v1/mods/456956/files/5813139/download",
+      "required": true,
+      "description": "Chipped Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "cloth-config",
+      "name": "Cloth Config",
+      "version": "11.1.136-fabric",
+      "filename": "cloth-config-11.1.136-fabric.jar",
+      "checksum": "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
+      "download_url": "https://www.curseforge.com/api/v1/mods/348521/files/5729104/download",
+      "required": true,
+      "description": "Cloth Config 11.1.136-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "collective",
+      "name": "Collective",
+      "version": "1.20.1-8.3",
+      "filename": "collective-1.20.1-8.3.jar",
+      "checksum": "6719ac5ebb35227b0b28e097c7850ec639410eef97333e2988c2c0d561b23301",
+      "download_url": "https://www.curseforge.com/api/v1/mods/342584/files/6429218/download",
+      "required": true,
+      "description": "Collective 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "comforts-fabric",
+      "name": "Comforts Fabric",
+      "version": "6.4.0",
+      "filename": "comforts-fabric-6.4.0+1.20.1.jar",
+      "checksum": "f9852a749b5154cbb0e97651cd0a1718382fcdfebdea86813bb118b16ee1096b",
+      "download_url": "https://www.curseforge.com/api/v1/mods/276951/files/5503514/download",
+      "required": true,
+      "description": "Comforts Fabric 6.4.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "companions-fabric",
+      "name": "Companions Fabric",
+      "version": "1.20.1-1.1.1",
+      "filename": "companions-fabric-1.20.1-1.1.1.jar",
+      "checksum": "1242fd5fde5daa4d59158ec3f976fc7e27ac587a6913729883eba6f7d53301e5",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1300341/files/6930502/download",
+      "required": true,
+      "description": "Companions Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "continuity",
+      "name": "Continuity",
+      "version": "3.0.0",
+      "filename": "continuity-3.0.0+1.20.1.jar",
+      "checksum": "fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3",
+      "download_url": "https://www.curseforge.com/api/v1/mods/531351/files/5962874/download",
+      "required": true,
+      "description": "Continuity 3.0.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "convenientdecor",
+      "name": "Convenientdecor",
+      "version": "0.4.3",
+      "filename": "convenientdecor-0.4.3.jar",
+      "checksum": "4d6aeca33360bcfa3bdaa539323117c5a756a9f5ca2ca6332bc13ebe70bd9b58",
+      "download_url": "https://www.curseforge.com/api/v1/mods/794452/files/5719100/download",
+      "required": true,
+      "description": "Convenientdecor 0.4.3 para Minecraft 1.20.1"
+    },
+    {
+      "id": "corgilib-fabric",
+      "name": "Corgilib Fabric",
+      "version": "1.20.1-4.0.3.4",
+      "filename": "Corgilib-Fabric-1.20.1-4.0.3.4.jar",
+      "checksum": "bdee50c14dd42b5b085fec7012ad7272ffd4e051161c0a6739275f2e77f54f3b",
+      "download_url": "https://www.curseforge.com/api/v1/mods/693313/files/6616780/download",
+      "required": true,
+      "description": "Corgilib Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "coroutil-fabric",
+      "name": "Coroutil Fabric",
+      "version": "1.20.1-1.3.7",
+      "filename": "coroutil-fabric-1.20.1-1.3.7.jar",
+      "checksum": "a97d58b44cf1ce8cf4fa8fded9c3c574ef1dd95e7fbb073f854e7fbce9c588b3",
+      "download_url": "https://www.curseforge.com/api/v1/mods/237749/files/5110802/download",
+      "required": true,
+      "description": "Coroutil Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "cosmeticarmor",
+      "name": "CosmeticArmor",
+      "version": "1.20-1-1.6.0",
+      "filename": "CosmeticArmor-1.20-1.6.0.jar",
+      "checksum": "72fd672fd7c25f9a8db49cf6c625c1b6af2acf4971a048d76e0db2557b898859",
+      "download_url": "https://www.curseforge.com/api/v1/mods/436659/files/4646421/download",
+      "required": true,
+      "description": "CosmeticArmor 1.20 para Minecraft 1.20.1"
+    },
+    {
+      "id": "crafttweaker-fabric",
+      "name": "CraftTweaker Fabric",
+      "version": "1.20.1-14.0.59",
+      "filename": "CraftTweaker-fabric-1.20.1-14.0.59.jar",
+      "checksum": "428053a37246af720b7540d69a57d168d64b2ee4beff3823cb4917efa2de42ed",
+      "download_url": "https://www.curseforge.com/api/v1/mods/239197/files/6914009/download",
+      "required": true,
+      "description": "CraftTweaker Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "cristellib",
+      "name": "Cristellib",
+      "version": "1.1.5-fabric",
+      "filename": "cristellib-1.1.5-fabric.jar",
+      "checksum": "6d4e73a95e7bee1e0f9b2a531d40fcc255490c064f4607f58d11f48c4c61101b",
+      "download_url": "https://www.curseforge.com/api/v1/mods/856996/files/4861834/download",
+      "required": true,
+      "description": "Cristellib 1.1.5-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "darkmodeeverywhere",
+      "name": "DarkModeEverywhere",
+      "version": "1.20.1-1.2.2",
+      "filename": "DarkModeEverywhere-1.20.1-1.2.2.jar",
+      "checksum": "dc91675e4886955425ead7d702802092e0e0292111c78a67dbb378ff6266cf99",
+      "download_url": "https://www.curseforge.com/api/v1/mods/696205/files/4716033/download",
+      "required": true,
+      "description": "DarkModeEverywhere 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "darkpaintings-fabric",
+      "name": "DarkPaintings Fabric",
+      "version": "1.20.1-17.0.4",
+      "filename": "DarkPaintings-Fabric-1.20.1-17.0.4.jar",
+      "checksum": "d18c8c7e2168a36e51e73396a2faaa99c607bdd50d1ccd3e613037c31071f41f",
+      "download_url": "https://www.curseforge.com/api/v1/mods/377281/files/4809003/download",
+      "required": true,
+      "description": "DarkPaintings Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "dawn",
+      "name": "Dawn",
+      "version": "5.0.0",
+      "filename": "dawn-5.0.0.jar",
+      "checksum": "6346c996358b889a5b0c3102889b71ffe16dd3852e06e6579d0f7f0d47d29313",
+      "download_url": "https://www.curseforge.com/api/v1/mods/399309/files/4605278/download",
+      "required": true,
+      "description": "Dawn 5.0.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "decorative-blocks-fabric",
+      "name": "Decorative Blocks Fabric",
+      "version": "1.20.1-4.1.3",
+      "filename": "decorative_blocks-fabric-1.20.1-4.1.3.jar",
+      "checksum": "9273e91494670ddab6feaa6151df5a65c05966fe14306476e67ab77af37f4f72",
+      "download_url": "https://www.curseforge.com/api/v1/mods/362528/files/5089408/download",
+      "required": true,
+      "description": "Decorative Blocks Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "doubledoors",
+      "name": "Doubledoors",
+      "version": "1.20.1-7.1",
+      "filename": "doubledoors-1.20.1-7.1.jar",
+      "checksum": "19277090b1f09717dcf044b6595dfbb63320ecd50b13f0318f91d889a57eb7dd",
+      "download_url": "https://www.curseforge.com/api/v1/mods/348831/files/6725032/download",
+      "required": true,
+      "description": "Doubledoors 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "dragonloot",
+      "name": "Dragonloot",
+      "version": "1.1.4",
+      "filename": "dragonloot-1.1.4.jar",
+      "checksum": "1b650961f53645818b74b8287e9c82f8bd17bbde49b4e705c26f1977e9b9d3bd",
+      "download_url": "https://www.curseforge.com/api/v1/mods/424480/files/4656260/download",
+      "required": true,
+      "description": "Dragonloot 1.1.4 para Minecraft 1.20.1"
+    },
+    {
+      "id": "dragonscale",
+      "name": "Dragonscale",
+      "version": "0.0.1",
+      "filename": "dragonscale-0.0.1-1.20.1.jar",
+      "checksum": "582ef2ee325e63a0349fff68e3c6a0eac868aace66c88feb4265b999d389c287",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1025953/files/5376033/download",
+      "required": true,
+      "description": "Dragonscale 0.0.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "dragonsteel",
+      "name": "Dragonsteel",
+      "version": "0.0.2",
+      "filename": "dragonsteel-0.0.2-1.20.1.jar",
+      "checksum": "af0891556b310ee7c2bc538749ee99fea4f7c59b07f5668aa012fd53849f1fe9",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1026400/files/5423155/download",
+      "required": true,
+      "description": "Dragonsteel 0.0.2 para Minecraft 1.20.1"
+    },
+    {
+      "id": "dungeon-now-loading-fabric",
+      "name": "Dungeon Now Loading Fabric",
+      "version": "1.20.1-1.2.0",
+      "filename": "Dungeon Now Loading-fabric-1.20.1-2.0.jar",
+      "checksum": "f17cf1e06edf18443be453afa76b1a50561c72d49c6efefe34231a1968ff9e45",
+      "download_url": "https://www.curseforge.com/api/v1/mods/638535/files/6952295/download",
+      "required": true,
+      "description": "Dungeon Now Loading Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "dungeonsarise-1-20-x",
+      "name": "DungeonsArise 1.20.X",
+      "version": "2.1.58-fabric",
+      "filename": "DungeonsArise-1.20.x-2.1.58-fabric-release.jar",
+      "checksum": "b51a10622bbcb575b026eb434e9e44ed42d334351d7990c06718c3275f92980a",
+      "download_url": "https://www.curseforge.com/api/v1/mods/511812/files/4983906/download",
+      "required": true,
+      "description": "DungeonsArise 1.20.X 2.1.58-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "dungeonsarisesevenseas-1-20-x",
+      "name": "DungeonsAriseSevenSeas 1.20.X",
+      "version": "1.0.2-fabric",
+      "filename": "DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar",
+      "checksum": "e1d06438a5a9618fca45e754e7698b68b82eed15b3971ab742174c54d41d6ac9",
+      "download_url": "https://www.curseforge.com/api/v1/mods/953637/files/4981340/download",
+      "required": true,
+      "description": "DungeonsAriseSevenSeas 1.20.X 1.0.2-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "eating-animation",
+      "name": "Eating Animation",
+      "version": "1.9.61",
+      "filename": "eating-animation-1.20+1.9.61.jar",
+      "checksum": "ff8fe184b3104b94c9e10e751f5730d3b1fec19894179743a2447367cb752463",
+      "download_url": "https://www.curseforge.com/api/v1/mods/527023/files/5212742/download",
+      "required": true,
+      "description": "Eating Animation 1.20 para Minecraft 1.20.1"
+    },
+    {
+      "id": "ecologics-fabric",
+      "name": "Ecologics Fabric",
+      "version": "1.20.1-2.2.2",
+      "filename": "ecologics-fabric-1.20.1-2.2.2.jar",
+      "checksum": "38f3aadecf43edfa195db25bc021d1aefd5f589e0e0b32f4884c8b1e58bbadfe",
+      "download_url": "https://www.curseforge.com/api/v1/mods/570463/files/6733904/download",
+      "required": true,
+      "description": "Ecologics Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "enchantinginfuser-v8-0-3",
+      "name": "EnchantingInfuser V8.0.3",
+      "version": "8.0.3",
+      "filename": "EnchantingInfuser-v8.0.3-1.20.1-Fabric.jar",
+      "checksum": "12ddb587239765a2f24e90f2689d6199515f66f84a6599d29937cee54ef250da",
+      "download_url": "https://www.curseforge.com/api/v1/mods/551151/files/5528722/download",
+      "required": true,
+      "description": "EnchantingInfuser V8.0.3 1.20.1-Fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "enchantmentdescriptions-fabric",
+      "name": "EnchantmentDescriptions Fabric",
+      "version": "1.20.1-17.1.19",
+      "filename": "EnchantmentDescriptions-Fabric-1.20.1-17.1.19.jar",
+      "checksum": "187ed376e65f3f2a953c9ecbf3be3c8d90854123f6437202b53fae75944d175e",
+      "download_url": "https://www.curseforge.com/api/v1/mods/250419/files/5855250/download",
+      "required": true,
+      "description": "EnchantmentDescriptions Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "enhancedworkbenches",
+      "name": "EnhancedWorkbenches",
+      "version": "1.1.3",
+      "filename": "EnhancedWorkbenches-1.1.3+1.20.1.jar",
+      "checksum": "cd6a340b1f6119ff5f68fb2f1877f4aa4da5a7ccbdca94a47e3fefe31e4b3813",
+      "download_url": "https://www.curseforge.com/api/v1/mods/857513/files/5483648/download",
+      "required": true,
+      "description": "EnhancedWorkbenches 1.1.3 para Minecraft 1.20.1"
+    },
+    {
+      "id": "explorify-v1-6-2-f10-48",
+      "name": "Explorify V1.6.2 F10 48",
+      "version": "1.6.2",
+      "filename": "Explorify v1.6.2 f10-48.jar",
+      "checksum": "8280dd4b3fa9a25a34dd663c3e0dc6342ba792ae31ab97d75c3c20e44bcc2df5",
+      "download_url": "https://www.curseforge.com/api/v1/mods/698309/files/5722938/download",
+      "required": true,
+      "description": "Explorify V1.6.2 F10 48 1.0.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "fabric-api",
+      "name": "Fabric Api",
+      "version": "0.92.6",
+      "filename": "fabric-api-0.92.6+1.20.1.jar",
+      "checksum": "0ece50476da3692111ab04b75945c5458e70d98cd069eefc044ab3e57977deeb",
+      "download_url": "https://www.curseforge.com/api/v1/mods/306612/files/6601119/download",
+      "required": true,
+      "description": "Fabric Api 0.92.6 para Minecraft 1.20.1"
+    },
+    {
+      "id": "fabric-language-kotlin",
+      "name": "Fabric Language Kotlin",
+      "version": "1.13.6",
+      "filename": "fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
+      "checksum": "62c2773380fae0ce5cd01e6cfbdc34f6a2d42fd0734e5996e261bf7d8bf12ce3",
+      "download_url": "https://www.curseforge.com/api/v1/mods/308769/files/6985480/download",
+      "required": true,
+      "description": "Fabric Language Kotlin 1.13.6 para Minecraft 1.20.1"
+    },
+    {
+      "id": "fallingleaves",
+      "name": "Fallingleaves",
+      "version": "1.15.6",
+      "filename": "fallingleaves-1.15.6+1.20.1.jar",
+      "checksum": "27b2c5a2a9cebe09afd4adccc3989c43a6cceb92ece60a6daea735ba178114f0",
+      "download_url": "https://www.curseforge.com/api/v1/mods/417510/files/5240313/download",
+      "required": true,
+      "description": "Fallingleaves 1.15.6 para Minecraft 1.20.1"
+    },
+    {
+      "id": "farmers-cutting-oh-the-biomes-weve-gone",
+      "name": "Farmers Cutting Oh The Biomes Weve Gone",
+      "version": "1.20.1-1.1",
+      "filename": "farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-fabric.jar",
+      "checksum": "b1f2c7a43415f17424b8508150dc13cd62a6db79cf89eb9307e42eb8059b64d4",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1094819/files/6274081/download",
+      "required": true,
+      "description": "Farmers Cutting Oh The Biomes Weve Gone 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "farmersdelight",
+      "name": "FarmersDelight",
+      "version": "1.20.1-2.4.0+refabricated",
+      "filename": "FarmersDelight-1.20.1-2.4.0+refabricated.jar",
+      "checksum": "bbfd5fde5946a6a48fe82e92c1b50a90a345ef254df29ad4265b09e1e2c15450",
+      "download_url": "https://www.curseforge.com/api/v1/mods/993166/files/6626608/download",
+      "required": true,
+      "description": "FarmersDelight 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "farmersknives",
+      "name": "Farmersknives",
+      "version": "3.2",
+      "filename": "farmersknives-3.2.jar",
+      "checksum": "807b1bea8921fd9350832150d5ae06b84c7bec9d7eaa5bc0401e0d39d1e506a9",
+      "download_url": "https://www.curseforge.com/api/v1/mods/628972/files/5281259/download",
+      "required": true,
+      "description": "Farmersknives 3.2 para Minecraft 1.20.1"
+    },
+    {
+      "id": "fastpaintings",
+      "name": "Fastpaintings",
+      "version": "1.20-1.2.7",
+      "filename": "fastpaintings-1.20-1.2.7-fabric.jar",
+      "checksum": "31d7fe9d421494953291048ddea6dae7dd59fd61dbb0ae557dd2815e63720a3c",
+      "download_url": "https://www.curseforge.com/api/v1/mods/883287/files/5324823/download",
+      "required": true,
+      "description": "Fastpaintings 1.20 para Minecraft 1.20.1"
+    },
+    {
+      "id": "fauxcustomentitydata-fabric",
+      "name": "FauxCustomEntityData Fabric",
+      "version": "1.20.1-6.0.1",
+      "filename": "FauxCustomEntityData-fabric-1.20.1-6.0.1.jar",
+      "checksum": "e46350f4769d53647fc1371f65a2a39ad7bc3c552423c4e42a06804eb6f40049",
+      "download_url": "https://www.curseforge.com/api/v1/mods/575305/files/4607750/download",
+      "required": true,
+      "description": "FauxCustomEntityData Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "flowerymooblooms-fabric-mc1-20-1",
+      "name": "Flowerymooblooms Fabric Mc1.20.1",
+      "version": "2.0.2",
+      "filename": "flowerymooblooms-fabric-mc1.20.1-2.0.2.jar",
+      "checksum": "e45e9f0fdebb75649e548ed5eb1e0598562c234df1efed66eb45c49a0930340a",
+      "download_url": "https://www.curseforge.com/api/v1/mods/779833/files/5526954/download",
+      "required": true,
+      "description": "Flowerymooblooms Fabric Mc1.20.1 2.0.2 para Minecraft 1.20.1"
+    },
+    {
+      "id": "forgeconfigapiport-v8-0-2",
+      "name": "ForgeConfigAPIPort V8.0.2",
+      "version": "8.0.2",
+      "filename": "ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
+      "checksum": "5ccccdd51341de19d85afce9d12fff7e340aefcce5acd4dcad4f9cb997ae5f56",
+      "download_url": "https://www.curseforge.com/api/v1/mods/547434/files/6325013/download",
+      "required": true,
+      "description": "ForgeConfigAPIPort V8.0.2 1.20.1-Fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "friendsandfoes-fabric-mc1-20-1",
+      "name": "Friendsandfoes Fabric Mc1.20.1",
+      "version": "3.0.9",
+      "filename": "friendsandfoes-fabric-mc1.20.1-3.0.9.jar",
+      "checksum": "bc3f162d6a614fa0eb3e422ee97eba04ce76734ee1d504beec1183d8e9407238",
+      "download_url": "https://www.curseforge.com/api/v1/mods/551364/files/6354623/download",
+      "required": true,
+      "description": "Friendsandfoes Fabric Mc1.20.1 3.0.9 para Minecraft 1.20.1"
+    },
+    {
+      "id": "gardens-of-the-dead-fabric",
+      "name": "Gardens Of The Dead Fabric",
+      "version": "4.0.1",
+      "filename": "gardens-of-the-dead-fabric-4.0.1.jar",
+      "checksum": "d6f59f49ce63d1cd1725957260f20e9158885f416ee9a2edadaf72c75e47cfd3",
+      "download_url": "https://www.curseforge.com/api/v1/mods/683174/files/4784268/download",
+      "required": true,
+      "description": "Gardens Of The Dead Fabric 4.0.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "geckolib-fabric",
+      "name": "Geckolib Fabric",
+      "version": "1.20.1-4.7.4",
+      "filename": "geckolib-fabric-1.20.1-4.7.4.jar",
+      "checksum": "6045e4ad9de04897fa94b6829abd8bd6f1bfec8c19729ae8b47eab7db9b89ca3",
+      "download_url": "https://www.curseforge.com/api/v1/mods/388172/files/6920923/download",
+      "required": true,
+      "description": "Geckolib Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "glitchcore-fabric",
+      "name": "GlitchCore Fabric",
+      "version": "1.20.1-0.0.1.1",
+      "filename": "GlitchCore-fabric-1.20.1-0.0.1.1.jar",
+      "checksum": "8cd722262900d9e6af5b4567f5539199494827e605441d9e9c1a12e1b3808307",
+      "download_url": "https://www.curseforge.com/api/v1/mods/955399/files/5787838/download",
+      "required": true,
+      "description": "GlitchCore Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "gravestones",
+      "name": "Gravestones",
+      "version": "1.15",
+      "filename": "gravestones-v1.15.jar",
+      "checksum": "d03ebfae2a163b90cbc7a72c6d88d0ed7a4532e611f21d5bdba7e7ec959ee2c6",
+      "download_url": "https://cdn.modrinth.com/data/ssUbhMkL/versions/Uw9uAQaY/gravestones-v1.15.jar",
+      "required": true,
+      "description": "Gravestones 1.15 para Minecraft 1.20.1"
+    },
+    {
+      "id": "gravestonesfix",
+      "name": "Gravestonesfix",
+      "version": "1.1.0",
+      "filename": "gravestonesfix-1.1.0.jar",
+      "checksum": "852c9671eab716376886328ece862aed801075e2aeca8093efe537328efd1e29",
+      "download_url": "https://cdn.modrinth.com/data/nFIzW822/versions/rlQV9QFX/gravestonesfix-1.1.0.jar",
+      "required": true,
+      "description": "Gravestonesfix 1.1.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "highlighter",
+      "name": "Highlighter",
+      "version": "1.1.9",
+      "filename": "Highlighter-1.20.1-fabric-1.1.9.jar",
+      "checksum": "c70e6bd800da24e50f7cbeaae1bf56cf036009e371cc1002e707bfaa4c01c588",
+      "download_url": "https://www.curseforge.com/api/v1/mods/541578/files/4940605/download",
+      "required": true,
+      "description": "Highlighter 1.20.1-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "horseman",
+      "name": "Horseman",
+      "version": "1.20.1-1.3.11",
+      "filename": "horseman-1.20.1-1.3.11-fabric.jar",
+      "checksum": "3233c6ed3853e078c4d986b20b194877fb60a837bea0f7a77195890bfa621f79",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1082085/files/6828551/download",
+      "required": true,
+      "description": "Horseman 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "iceberg",
+      "name": "Iceberg",
+      "version": "1.1.25",
+      "filename": "Iceberg-1.20.1-fabric-1.1.25.jar",
+      "checksum": "f142f15b72e36225b9828e5f44e8453e54a26a57048b12fe49ab8fb6476793f8",
+      "download_url": "https://www.curseforge.com/api/v1/mods/539382/files/5838145/download",
+      "required": true,
+      "description": "Iceberg 1.20.1-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "immersiveui-fabric",
+      "name": "ImmersiveUI FABRIC",
+      "version": "0.3.0",
+      "filename": "ImmersiveUI-FABRIC-0.3.0.jar",
+      "checksum": "9079b5c5101c3c835c88d78cefe8fbb92ca1af1db2eee3051ef3c5fb5182f880",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1021685/files/6023592/download",
+      "required": true,
+      "description": "ImmersiveUI FABRIC 0.3.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "immersive-aircraft",
+      "name": "Immersive Aircraft",
+      "version": "1.4.0",
+      "filename": "immersive_aircraft-1.4.0+1.20.1-fabric.jar",
+      "checksum": "87c40c0e9308438e1d8bbe2df2ca73245cf0eff95d31509fd6b9dc3716c9b776",
+      "download_url": "https://www.curseforge.com/api/v1/mods/666014/files/6972823/download",
+      "required": true,
+      "description": "Immersive Aircraft 1.4.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "immersive-armors",
+      "name": "Immersive Armors",
+      "version": "1.7.1",
+      "filename": "immersive_armors-1.7.1+1.20.1-fabric.jar",
+      "checksum": "ccc9708d1af8571eb20aba579377f742343f1df6b4a0e02fea465a2ccf3ab5e4",
+      "download_url": "https://www.curseforge.com/api/v1/mods/580681/files/6851703/download",
+      "required": true,
+      "description": "Immersive Armors 1.7.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "indium",
+      "name": "Indium",
+      "version": "1.0.36",
+      "filename": "indium-1.0.36+mc1.20.1.jar",
+      "checksum": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
+      "download_url": "https://www.curseforge.com/api/v1/mods/459496/files/6237037/download",
+      "required": true,
+      "description": "Indium 1.0.36 para Minecraft 1.20.1"
+    },
+    {
+      "id": "inventoryhud-fabric-1-20-1",
+      "name": "Inventoryhud.Fabric.1.20.1",
+      "version": "3.4.26",
+      "filename": "inventoryhud.fabric.1.20.1-3.4.26.jar",
+      "checksum": "82a89cb2e004f9bf2c271ecb4a9e942bb79ddf71ca912184da438eb0538ff522",
+      "download_url": "https://www.curseforge.com/api/v1/mods/357540/files/5639959/download",
+      "required": true,
+      "description": "Inventoryhud.Fabric.1.20.1 3.4.26 para Minecraft 1.20.1"
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "version": "1.7.6",
+      "filename": "iris-1.7.6+mc1.20.1.jar",
+      "checksum": "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
+      "download_url": "https://www.curseforge.com/api/v1/mods/455508/files/6258195/download",
+      "required": true,
+      "description": "Iris 1.7.6 para Minecraft 1.20.1"
+    },
+    {
+      "id": "jade",
+      "name": "Jade",
+      "version": "11.13.1",
+      "filename": "Jade-1.20-Fabric-11.13.1.jar",
+      "checksum": "02da30d17d3a1d892ff5657e2add8e012854575aed34e4f95dc9b3b8ba207b8c",
+      "download_url": "https://www.curseforge.com/api/v1/mods/324717/files/6291330/download",
+      "required": true,
+      "description": "Jade 1.20-Fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "jadeaddons",
+      "name": "JadeAddons",
+      "version": "5.4.0",
+      "filename": "JadeAddons-1.20.1-Fabric-5.4.0.jar",
+      "checksum": "8e424789668be233c58e60dd70660ad0f8fbfa33ff3b75a4c304a518b63c4b4d",
+      "download_url": "https://www.curseforge.com/api/v1/mods/656665/files/5968142/download",
+      "required": true,
+      "description": "JadeAddons 1.20.1-Fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "jamlib-fabric",
+      "name": "Jamlib Fabric",
+      "version": "1.3.5",
+      "filename": "jamlib-fabric-1.3.5+1.20.1.jar",
+      "checksum": "e209f375028ec596e838ae6d84b7761e82eed15e14aea3fa483830781b2d9f77",
+      "download_url": "https://www.curseforge.com/api/v1/mods/623764/files/6421939/download",
+      "required": true,
+      "description": "Jamlib Fabric 1.3.5 para Minecraft 1.20.1"
+    },
+    {
+      "id": "jei",
+      "name": "Jei",
+      "version": "15.20.0.112",
+      "filename": "jei-1.20.1-fabric-15.20.0.112.jar",
+      "checksum": "1801d77ccd6cbb30d0b08fbe6b4c5f44f4e1054932a7a6192602a93b6fc9ad17",
+      "download_url": "https://www.curseforge.com/api/v1/mods/238222/files/6600309/download",
+      "required": true,
+      "description": "Jei 1.20.1-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "version": "2.2.2-fabric",
+      "filename": "Jupiter-2.2.2-fabric.jar",
+      "checksum": "292f7717a1c8beba22d68dc88a6956fe6ff29234b90849db250e7dfb9bbcccbc",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1072905/files/6843040/download",
+      "required": true,
+      "description": "Jupiter 2.2.2-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "justenoughprofessions-fabric",
+      "name": "JustEnoughProfessions Fabric",
+      "version": "1.20.1-3.0.1",
+      "filename": "JustEnoughProfessions-fabric-1.20.1-3.0.1.jar",
+      "checksum": "b6dd500b27cf115558dea1a362744d50413b44485f4f6435285222a14b104d70",
+      "download_url": "https://www.curseforge.com/api/v1/mods/417645/files/4587023/download",
+      "required": true,
+      "description": "JustEnoughProfessions Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "justenoughresources-fabric",
+      "name": "JustEnoughResources Fabric",
+      "version": "1.20.1-1.4.0.247",
+      "filename": "JustEnoughResources-Fabric-1.20.1-1.4.0.247.jar",
+      "checksum": "9fd8a909a27d89419abb18e4b416b030666df1398c0e77ac5c8e7342a8054734",
+      "download_url": "https://www.curseforge.com/api/v1/mods/240630/files/5057223/download",
+      "required": true,
+      "description": "JustEnoughResources Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "knightlib-fabric",
+      "name": "Knightlib Fabric",
+      "version": "1.20.1-1.3.1",
+      "filename": "knightlib-fabric-1.20.1-1.3.1.jar",
+      "checksum": "3bed708856b8f4b0d6ce8342cef57089994eb8cfb5b2040f246df8c473c78e22",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1105855/files/6821910/download",
+      "required": true,
+      "description": "Knightlib Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "leavesbegone-v8-0-0",
+      "name": "LeavesBeGone V8.0.0",
+      "version": "8.0.0",
+      "filename": "LeavesBeGone-v8.0.0-1.20.1-Fabric.jar",
+      "checksum": "e4cb58de102a4c9893fec5bf157e0ce3086a1f9ff182ddb40b0262eb7ead8c78",
+      "download_url": "https://cdn.modrinth.com/data/AVq17PqV/versions/I6xyij66/LeavesBeGone-v8.0.0-1.20.1-Fabric.jar",
+      "required": true,
+      "description": "LeavesBeGone V8.0.0 1.20.1-Fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "magnumtorch-v8-0-2",
+      "name": "MagnumTorch V8.0.2",
+      "version": "8.0.2",
+      "filename": "MagnumTorch-v8.0.2-1.20.1-Fabric.jar",
+      "checksum": "ae2ba8323a90aabdad85bd136912a83ca5005253af27366d3357f04bf6f04fe1",
+      "download_url": "https://www.curseforge.com/api/v1/mods/593981/files/5046983/download",
+      "required": true,
+      "description": "MagnumTorch V8.0.2 1.20.1-Fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "majrusz-library-fabric",
+      "name": "Majrusz Library Fabric",
+      "version": "1.20.1-7.0.8",
+      "filename": "majrusz-library-fabric-1.20.1-7.0.8.jar",
+      "checksum": "fb9b86caa63c4d214eeb544eaf163f1d98efc14c6ff1576d53bac5890caef4db",
+      "download_url": "https://www.curseforge.com/api/v1/mods/437409/files/5301915/download",
+      "required": true,
+      "description": "Majrusz Library Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "majruszs-enchantments-fabric",
+      "name": "Majruszs Enchantments Fabric",
+      "version": "1.20.1-1.10.8",
+      "filename": "majruszs-enchantments-fabric-1.20.1-1.10.8.jar",
+      "checksum": "3dd62dce95446001a6c59a4761f4816304bee65596f0edd0f83be6c49f716fa5",
+      "download_url": "https://www.curseforge.com/api/v1/mods/417439/files/5293479/download",
+      "required": true,
+      "description": "Majruszs Enchantments Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "mcdw",
+      "name": "Mcdw",
+      "version": "9.0.4",
+      "filename": "mcdw-9.0.4.jar",
+      "checksum": "831cef36d489191bde9037a1a677fc3fcd2ad3e22101fffd0445ecd424b48856",
+      "download_url": "https://www.curseforge.com/api/v1/mods/407311/files/5280243/download",
+      "required": true,
+      "description": "Mcdw 9.0.4 para Minecraft 1.20.1"
+    },
+    {
+      "id": "mcw-doors",
+      "name": "Mcw Doors",
+      "version": "1.1.2",
+      "filename": "mcw-doors-1.1.2-mc1.20.1fabric.jar",
+      "checksum": "7858722de4fc80a67eaf3b0c28ca711dc701411d3d0c2a2b5b6923cdd72c89cf",
+      "download_url": "https://www.curseforge.com/api/v1/mods/378646/files/6146455/download",
+      "required": true,
+      "description": "Mcw Doors 1.1.2 para Minecraft 1.20.1"
+    },
+    {
+      "id": "mcw-fences",
+      "name": "Mcw Fences",
+      "version": "1.2.0",
+      "filename": "mcw-fences-1.2.0-1.20.1fabric.jar",
+      "checksum": "14fa1f0f8a12523ca537a9ad899c4f642dba59d3bee82e9431a7f8175798745c",
+      "download_url": "https://www.curseforge.com/api/v1/mods/453925/files/6363061/download",
+      "required": true,
+      "description": "Mcw Fences 1.2.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "mcw-furniture",
+      "name": "Mcw Furniture",
+      "version": "3.3.0",
+      "filename": "mcw-furniture-3.3.0-mc1.20.1fabric.jar",
+      "checksum": "26dbf428aacfef0656ae88cb76d709dd8fd17fe119ea1c4e866ba3d485fe0a78",
+      "download_url": "https://www.curseforge.com/api/v1/mods/359540/files/5589841/download",
+      "required": true,
+      "description": "Mcw Furniture 3.3.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "mcw-trapdoors",
+      "name": "Mcw Trapdoors",
+      "version": "1.1.4",
+      "filename": "mcw-trapdoors-1.1.4-mc1.20.1fabric.jar",
+      "checksum": "5eac35f7bfc95c56bc1e6660b8bf1bec1d121d511c23fb42f5911e0a0db85679",
+      "download_url": "https://www.curseforge.com/api/v1/mods/400933/files/5977711/download",
+      "required": true,
+      "description": "Mcw Trapdoors 1.1.4 para Minecraft 1.20.1"
+    },
+    {
+      "id": "mcw-windows",
+      "name": "Mcw Windows",
+      "version": "2.4.0",
+      "filename": "mcw-windows-2.4.0-1.20.1fabric.jar",
+      "checksum": "94cde3190e98e87322e3d752b248e415c3ddb5c6707de6efbe2cfb1b08368e14",
+      "download_url": "https://www.curseforge.com/api/v1/mods/363569/files/6732785/download",
+      "required": true,
+      "description": "Mcw Windows 2.4.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "mcwbyg-fabric",
+      "name": "Mcwbyg Fabric",
+      "version": "1.20.1-1.2.1",
+      "filename": "mcwbyg-fabric-1.20.1-1.2.1.jar",
+      "checksum": "e01f32d2a769a529b0db7f31629dcd5bd8debcad307698c8e5172d1cb49143eb",
+      "download_url": "https://www.curseforge.com/api/v1/mods/535960/files/6400788/download",
+      "required": true,
+      "description": "Mcwbyg Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "midnightlib-fabric",
+      "name": "Midnightlib Fabric",
+      "version": "1.4.1",
+      "filename": "midnightlib-fabric-1.4.1.jar",
+      "checksum": "1092b8b311203cd5f2089c7187e1ac9378e0374b29fabae7e98f4af8360fdbc6",
+      "download_url": "https://www.curseforge.com/api/v1/mods/488090/files/4576371/download",
+      "required": true,
+      "description": "Midnightlib Fabric 1.4.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "moonlight",
+      "name": "Moonlight",
+      "version": "1.20-2.16.10",
+      "filename": "moonlight-1.20-2.16.10-fabric.jar",
+      "checksum": "3faa3693b2a18afefe20e0712f71b116de226c379dc1792d34fb57a18a738e58",
+      "download_url": "https://www.curseforge.com/api/v1/mods/499980/files/6983936/download",
+      "required": true,
+      "description": "Moonlight 1.20 para Minecraft 1.20.1"
+    },
+    {
+      "id": "mythic-mounts",
+      "name": "Mythic Mounts",
+      "version": "1.20.1-7.4",
+      "filename": "mythic-mounts-1.20.1-7.4.jar",
+      "checksum": "fe0093f404b5f99f75a653abe4c11cbe98cf6300b88b64da94f57622b9f7e171",
+      "download_url": "https://www.curseforge.com/api/v1/mods/517650/files/4758535/download",
+      "required": true,
+      "description": "Mythic Mounts 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "nethersdelight-refabricated",
+      "name": "NethersDelight Refabricated",
+      "version": "1.20.1-4.1.1",
+      "filename": "NethersDelight-Refabricated-1.20.1-4.1.1.jar",
+      "checksum": "882c8fd92d7964f2314da6d4696190d451f8ed87db7726df06b9bc913776c9cb",
+      "download_url": "https://www.curseforge.com/api/v1/mods/998782/files/5336735/download",
+      "required": true,
+      "description": "NethersDelight Refabricated 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "notenoughanimations-fabric",
+      "name": "Notenoughanimations Fabric",
+      "version": "1.10.2",
+      "filename": "notenoughanimations-fabric-1.10.2-mc1.20.1.jar",
+      "checksum": "aa8cf7131c48eac2f3a8de7318e057043af2dab0eaf352e5edd997e6b79d490e",
+      "download_url": "https://www.curseforge.com/api/v1/mods/433760/files/6931593/download",
+      "required": true,
+      "description": "Notenoughanimations Fabric 1.10.2 para Minecraft 1.20.1"
+    },
+    {
+      "id": "nullscape",
+      "name": "Nullscape",
+      "version": "1.2.8",
+      "filename": "Nullscape_1.20.x_v1.2.8.jar",
+      "checksum": "32ccc5beb6ad0215e06082620903e1825a1b0df51777f3f31801b4a17e6ebcc5",
+      "download_url": "https://www.curseforge.com/api/v1/mods/570354/files/5759138/download",
+      "required": true,
+      "description": "Nullscape 1.20 para Minecraft 1.20.1"
+    },
+    {
+      "id": "octolib-fabric",
+      "name": "OctoLib FABRIC",
+      "version": "0.5.0.1",
+      "filename": "OctoLib-FABRIC-0.5.0.1+1.20.1.jar",
+      "checksum": "cfa75c8b7ca08a175332ea66a427e95748389de019a6fcf7fc5852b104ffcc51",
+      "download_url": "https://www.curseforge.com/api/v1/mods/916747/files/6274626/download",
+      "required": true,
+      "description": "OctoLib FABRIC 0.5.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "oh-the-biomes-weve-gone-fabric",
+      "name": "Oh The Biomes Weve Gone Fabric",
+      "version": "1.6.5",
+      "filename": "Oh-The-Biomes-Weve-Gone-Fabric-1.6.5.jar",
+      "checksum": "9fd501ab4a46043ec94d4c68905a50fa81984331db3dd5fd0d4b3fe341222c78",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1070751/files/6943501/download",
+      "required": true,
+      "description": "Oh The Biomes Weve Gone Fabric 1.6.5 para Minecraft 1.20.1"
+    },
+    {
+      "id": "oh-the-trees-youll-grow-fabric",
+      "name": "Oh The Trees Youll Grow Fabric",
+      "version": "1.20.1-1.3.13",
+      "filename": "Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.3.13.jar",
+      "checksum": "f277131ea69556b6b9c41663b4fdde004c3a9af66aef29a8c001984b60d61dfa",
+      "download_url": "https://www.curseforge.com/api/v1/mods/962544/files/6608608/download",
+      "required": true,
+      "description": "Oh The Trees Youll Grow Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "patchouli",
+      "name": "Patchouli",
+      "version": "1.20.1-81",
+      "filename": "Patchouli-1.20.1-81-FABRIC.jar",
+      "checksum": "80271bc401f716ada590047755cf5b455e97417e61e1fbf1ba94ccb45f0015b3",
+      "download_url": "https://www.curseforge.com/api/v1/mods/393236/files/4636276/download",
+      "required": true,
+      "description": "Patchouli 1.20.1-81 para Minecraft 1.20.1"
+    },
+    {
+      "id": "pickyourpoison",
+      "name": "Pickyourpoison",
+      "version": "1.1.1",
+      "filename": "pickyourpoison-1.1.1.jar",
+      "checksum": "3a5df7f662da3a9cfd5207770884af142894c7c0ffd29cf22cfa8a597b07378a",
+      "download_url": "https://cdn.modrinth.com/data/EHjFQKek/versions/INN0iDW3/pickyourpoison-1.1.1.jar",
+      "required": true,
+      "description": "Pickyourpoison 1.1.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "platform-fabric",
+      "name": "Platform Fabric",
+      "version": "1.20.1-1.2.10.1",
+      "filename": "Platform-fabric-1.20.1-1.2.10.1.jar",
+      "checksum": "6979467caa916c7458b3b5bf6c32e062378575ec9b1d1ce7b9d8480703fa51a8",
+      "download_url": "https://www.curseforge.com/api/v1/mods/997634/files/6673723/download",
+      "required": true,
+      "description": "Platform Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "player-animation-lib-fabric",
+      "name": "Player Animation Lib Fabric",
+      "version": "1.0.2-rc1",
+      "filename": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "checksum": "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018",
+      "download_url": "https://www.curseforge.com/api/v1/mods/658587/files/4587215/download",
+      "required": true,
+      "description": "Player Animation Lib Fabric 1.0.2-rc1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "powah",
+      "name": "Powah",
+      "version": "5.0.11",
+      "filename": "Powah-5.0.11.jar",
+      "checksum": "71235c94183d29a1468733c7f6794264412fc76bf9eab0870f7bbcdee8931735",
+      "download_url": "https://www.curseforge.com/api/v1/mods/633483/files/6828053/download",
+      "required": true,
+      "description": "Powah 5.0.11 para Minecraft 1.20.1"
+    },
+    {
+      "id": "presencefootsteps",
+      "name": "PresenceFootsteps",
+      "version": "1.10.1",
+      "filename": "PresenceFootsteps-1.10.1+1.20.1.jar",
+      "checksum": "70f354e5ecd8993908601fcdfcb4e98f7b81f42192287282a5b86712e9a6be95",
+      "download_url": "https://www.curseforge.com/api/v1/mods/334259/files/5956100/download",
+      "required": true,
+      "description": "PresenceFootsteps 1.10.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "promenade",
+      "name": "Promenade",
+      "version": "4.1.1",
+      "filename": "promenade-4.1.1.jar",
+      "checksum": "1b73ed9401e194b1c1948a54b59d941ac147921e7ede50d150b2390d56bb2260",
+      "download_url": "https://www.curseforge.com/api/v1/mods/399648/files/4794732/download",
+      "required": true,
+      "description": "Promenade 4.1.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "puzzleslib-v8-1-33",
+      "name": "PuzzlesLib V8.1.33",
+      "version": "8.1.33",
+      "filename": "PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
+      "checksum": "855034e7a858f2f9ee76c1181aa1f4d5b9e605d63d8a81f7bba155faba2da7c5",
+      "download_url": "https://www.curseforge.com/api/v1/mods/495476/files/6918566/download",
+      "required": true,
+      "description": "PuzzlesLib V8.1.33 1.20.1-Fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "ranged-weapon-api",
+      "name": "Ranged Weapon Api",
+      "version": "1.1.4",
+      "filename": "ranged_weapon_api-1.1.4+1.20.1.jar",
+      "checksum": "afa0f8379aca3ca719a88b3c6c3ed8643177bf2b6dfadf8e0bf533154d6c904a",
+      "download_url": "https://www.curseforge.com/api/v1/mods/962162/files/5655499/download",
+      "required": true,
+      "description": "Ranged Weapon Api 1.1.4 para Minecraft 1.20.1"
+    },
+    {
+      "id": "ratatouille",
+      "name": "Ratatouille",
+      "version": "1.0.9",
+      "filename": "ratatouille-1.0.9-1.20.1.jar",
+      "checksum": "6111568c3137a20a554e5224ab2afb63a503fa050ef16c168aca5c4f6020025a",
+      "download_url": "https://cdn.modrinth.com/data/yufdeaJg/versions/ItOHFGeC/ratatouille-1.0.9-1.20.1.jar",
+      "required": true,
+      "description": "Ratatouille 1.0.9 para Minecraft 1.20.1"
+    },
+    {
+      "id": "reeses-sodium-options",
+      "name": "Reeses Sodium Options",
+      "version": "1.7.2",
+      "filename": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+      "checksum": "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec",
+      "download_url": "https://www.curseforge.com/api/v1/mods/511319/files/5075462/download",
+      "required": true,
+      "description": "Reeses Sodium Options 1.7.2 para Minecraft 1.20.1"
+    },
+    {
+      "id": "regionsunexploredfabric",
+      "name": "RegionsUnexploredFabric",
+      "version": "0.5.6",
+      "filename": "RegionsUnexploredFabric-0.5.6+1.20.1.jar",
+      "checksum": "d24dc3a6a08432d51d042750fe50a6c5051f9d0c725cfc434cf9ce6eb8b7e332",
+      "download_url": "https://www.curseforge.com/api/v1/mods/659110/files/5558172/download",
+      "required": true,
+      "description": "RegionsUnexploredFabric 0.5.6 para Minecraft 1.20.1"
+    },
+    {
+      "id": "repurposed-structures",
+      "name": "Repurposed Structures",
+      "version": "7.1.19",
+      "filename": "repurposed_structures-7.1.19+1.20.1-fabric.jar",
+      "checksum": "4d8b1c014088156771f9bb066c5af4706d1482cb42d80e71fa072c9320a78f13",
+      "download_url": "https://www.curseforge.com/api/v1/mods/391366/files/6797350/download",
+      "required": true,
+      "description": "Repurposed Structures 7.1.19 para Minecraft 1.20.1"
+    },
+    {
+      "id": "resourcefulconfig-fabric",
+      "name": "Resourcefulconfig Fabric",
+      "version": "1.20.1-2.1.3",
+      "filename": "resourcefulconfig-fabric-1.20.1-2.1.3.jar",
+      "checksum": "f8fbad0b2ab07ccaffce53a9d835601b41ab013af8a501af4de56b3958d1182a",
+      "download_url": "https://www.curseforge.com/api/v1/mods/714059/files/6223996/download",
+      "required": true,
+      "description": "Resourcefulconfig Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "resourcefullib-fabric",
+      "name": "Resourcefullib Fabric",
+      "version": "1.20.1-2.1.29",
+      "filename": "resourcefullib-fabric-1.20.1-2.1.29.jar",
+      "checksum": "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb",
+      "download_url": "https://www.curseforge.com/api/v1/mods/570073/files/5659872/download",
+      "required": true,
+      "description": "Resourcefullib Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "rightclickharvest-fabric",
+      "name": "Rightclickharvest Fabric",
+      "version": "4.5.3",
+      "filename": "rightclickharvest-fabric-4.5.3+1.20.1.jar",
+      "checksum": "ebd160c1d1c4d58559d7126065d30b6820c89b5c5ec62659949a386dcae153a0",
+      "download_url": "https://www.curseforge.com/api/v1/mods/452834/files/6326902/download",
+      "required": true,
+      "description": "Rightclickharvest Fabric 4.5.3 para Minecraft 1.20.1"
+    },
+    {
+      "id": "satin",
+      "name": "Satin",
+      "version": "1.14.0",
+      "filename": "satin-1.14.0.jar",
+      "checksum": "9191d74a4be2b6e493792a5b67e55acd91b1c614e5c835c5cd874f0e29358d95",
+      "download_url": "https://www.curseforge.com/api/v1/mods/385463/files/4683429/download",
+      "required": true,
+      "description": "Satin 1.14.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "searchables-fabric",
+      "name": "Searchables Fabric",
+      "version": "1.20.1-1.0.3",
+      "filename": "Searchables-fabric-1.20.1-1.0.3.jar",
+      "checksum": "d377ecc4e4217705d162164ea8834f71f8f91881016edb941f6d455f77adde09",
+      "download_url": "https://www.curseforge.com/api/v1/mods/858542/files/5284014/download",
+      "required": true,
+      "description": "Searchables Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "seriousplayeranimations",
+      "name": "Seriousplayeranimations",
+      "version": "1.1.1",
+      "filename": "seriousplayeranimations-1.1.1.jar",
+      "checksum": "5c5c08c67e776786b6fe51c45503f60b63e32f1ff2b6c62e1f208eef0e90665b",
+      "download_url": "https://www.curseforge.com/api/v1/mods/975080/files/5228789/download",
+      "required": true,
+      "description": "Seriousplayeranimations 1.1.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "simplymore-fabric",
+      "name": "Simplymore Fabric",
+      "version": "1.1.3",
+      "filename": "simplymore-fabric-1.1.3.jar",
+      "checksum": "3137d64e9f4c5c7f0e62db7862b209f06c6895e4811d186520d49c0c2be5bcb4",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1095252/files/6261977/download",
+      "required": true,
+      "description": "Simplymore Fabric 1.1.3 para Minecraft 1.20.1"
+    },
+    {
+      "id": "simplyswords",
+      "name": "Simplyswords",
+      "version": "1.56.0",
+      "filename": "simplyswords-1.56.0-1.20.1.jar",
+      "checksum": "ddbaf8ab85a6b003a817d0c0e817dcbdf9fcfe6b889c729ff72c4b6a3b1f3e9a",
+      "download_url": "https://www.curseforge.com/api/v1/mods/659887/files/5639522/download",
+      "required": true,
+      "description": "Simplyswords 1.56.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "skinlayers3d-fabric",
+      "name": "Skinlayers3d Fabric",
+      "version": "1.9.0",
+      "filename": "skinlayers3d-fabric-1.9.0-mc1.20.1.jar",
+      "checksum": "e84de9cb46cf86888e5424f5ea2a557e235f023379801bea55239ef8a55c3001",
+      "download_url": "https://www.curseforge.com/api/v1/mods/521480/files/6879681/download",
+      "required": true,
+      "description": "Skinlayers3d Fabric 1.9.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "sodium-fabric",
+      "name": "Sodium Fabric",
+      "version": "0.5.13",
+      "filename": "sodium-fabric-0.5.13+mc1.20.1.jar",
+      "checksum": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+      "download_url": "https://www.curseforge.com/api/v1/mods/394468/files/6260639/download",
+      "required": true,
+      "description": "Sodium Fabric 0.5.13 para Minecraft 1.20.1"
+    },
+    {
+      "id": "sodiumdynamiclights-fabric",
+      "name": "Sodiumdynamiclights Fabric",
+      "version": "1.0.10",
+      "filename": "sodiumdynamiclights-fabric-1.0.10-1.20.1.jar",
+      "checksum": "9de7f31d4e44d8564c31cdbf51a03042a8092f4c7a502f84934017cee3597dde",
+      "download_url": "https://www.curseforge.com/api/v1/mods/551736/files/6044480/download",
+      "required": true,
+      "description": "Sodiumdynamiclights Fabric 1.0.10 para Minecraft 1.20.1"
+    },
+    {
+      "id": "sodiumextras-fabric",
+      "name": "Sodiumextras Fabric",
+      "version": "1.0.7",
+      "filename": "sodiumextras-fabric-1.0.7-1.20.1.jar",
+      "checksum": "c3b24e230beb1e69d6c11fe3d5c9f9683ffb141d696d60b8bf6c229b0aed5495",
+      "download_url": "https://www.curseforge.com/api/v1/mods/558905/files/6041696/download",
+      "required": true,
+      "description": "Sodiumextras Fabric 1.0.7 para Minecraft 1.20.1"
+    },
+    {
+      "id": "sodiumoptionsapi-fabric",
+      "name": "Sodiumoptionsapi Fabric",
+      "version": "1.0.10",
+      "filename": "sodiumoptionsapi-fabric-1.0.10-1.20.1.jar",
+      "checksum": "2e34c4ecac29d2ae363d433b5104aae986161e887252e145fa84a27d04761612",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1103431/files/6100811/download",
+      "required": true,
+      "description": "Sodiumoptionsapi Fabric 1.0.10 para Minecraft 1.20.1"
+    },
+    {
+      "id": "sophisticatedbackpacks",
+      "name": "Sophisticatedbackpacks",
+      "version": "1.20.1-3.23.4.4.105",
+      "filename": "sophisticatedbackpacks-1.20.1-3.23.4.4.105.jar",
+      "checksum": "3238b4ba259804c1d34a67033418a81d0875428caf98c7fc052a39247df653ea",
+      "download_url": "https://www.curseforge.com/api/v1/mods/979322/files/6627540/download",
+      "required": true,
+      "description": "Sophisticatedbackpacks 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "sophisticatedcore",
+      "name": "Sophisticatedcore",
+      "version": "1.20.1-1.2.7.12.160",
+      "filename": "sophisticatedcore-1.20.1-1.2.7.12.160.jar",
+      "checksum": "4a559c0cdbe82dbd378f3368447633332275abb6261eef71589bd453559d12fa",
+      "download_url": "https://www.curseforge.com/api/v1/mods/979317/files/6931949/download",
+      "required": true,
+      "description": "Sophisticatedcore 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "soulbound-fabric",
+      "name": "Soulbound Fabric",
+      "version": "1.0.0",
+      "filename": "soulbound-fabric-1.0.0+1.20.1.jar",
+      "checksum": "c8a81b817fbc62efe7459a84a397720cda3ccc06af7c35619dccc9fc8f01f158",
+      "download_url": "https://www.curseforge.com/api/v1/mods/888668/files/5498215/download",
+      "required": true,
+      "description": "Soulbound Fabric 1.0.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "soulslike-weaponry",
+      "name": "Soulslike Weaponry",
+      "version": "1.3.1",
+      "filename": "soulslike-weaponry-1.3.1-1.20.1-fabric.jar",
+      "checksum": "ff09419fd38ba659582d8e7967fd69c01d8618390e31bb2ce346911cba05a814",
+      "download_url": "https://www.curseforge.com/api/v1/mods/632066/files/6901268/download",
+      "required": true,
+      "description": "Soulslike Weaponry 1.3.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "stackedblocks",
+      "name": "Stackedblocks",
+      "version": "25.02.13",
+      "filename": "stackedblocks-25.02.13-1.20-fabric.jar",
+      "checksum": "cd2a344625fb5943ca3b668190c115ea71116fcde4746daa61be469dd8659bf6",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1144737/files/6189779/download",
+      "required": true,
+      "description": "Stackedblocks 25.02.13 para Minecraft 1.20.1"
+    },
+    {
+      "id": "status-effect-bars",
+      "name": "Status Effect Bars",
+      "version": "1.0.3",
+      "filename": "status-effect-bars-1.0.3.jar",
+      "checksum": "cf9da827d58d5a3d6692bcde3228f28f1dc94087d775b4f2e76be87631695513",
+      "download_url": "https://www.curseforge.com/api/v1/mods/615459/files/4585394/download",
+      "required": true,
+      "description": "Status Effect Bars 1.0.3 para Minecraft 1.20.1"
+    },
+    {
+      "id": "storagedrawers-fabric",
+      "name": "StorageDrawers Fabric",
+      "version": "1.20.1-12.14.3",
+      "filename": "StorageDrawers-fabric-1.20.1-12.14.3.jar",
+      "checksum": "bb4238220fff1388c426556275c00a621855d8670e4f849f357f42f720fa77e0",
+      "download_url": "https://www.curseforge.com/api/v1/mods/223852/files/6994478/download",
+      "required": true,
+      "description": "StorageDrawers Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "structory-towers",
+      "name": "Structory Towers",
+      "version": "1.0.7",
+      "filename": "Structory_Towers_1.20.x_v1.0.7.jar",
+      "checksum": "74aa182524af55e172d7bfcf828dd1c1a3259a304980e7a94fbfbf1f0d9fac0c",
+      "download_url": "https://www.curseforge.com/api/v1/mods/783522/files/5351596/download",
+      "required": true,
+      "description": "Structory Towers 1.20 para Minecraft 1.20.1"
+    },
+    {
+      "id": "terrablender-fabric",
+      "name": "TerraBlender Fabric",
+      "version": "1.20.1-3.0.1.10",
+      "filename": "TerraBlender-fabric-1.20.1-3.0.1.10.jar",
+      "checksum": "23f32e77d84279ce38747141b3ef67d8c5dadaf0f198c2e6f69f15eb40bdeb55",
+      "download_url": "https://www.curseforge.com/api/v1/mods/565956/files/6290449/download",
+      "required": true,
+      "description": "TerraBlender Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "terralith",
+      "name": "Terralith",
+      "version": "2.5.4",
+      "filename": "Terralith_1.20.x_v2.5.4.jar",
+      "checksum": "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f",
+      "download_url": "https://www.curseforge.com/api/v1/mods/513688/files/5512076/download",
+      "required": true,
+      "description": "Terralith 1.20 para Minecraft 1.20.1"
+    },
+    {
+      "id": "tips-fabric",
+      "name": "Tips Fabric",
+      "version": "1.20.1-12.1.8",
+      "filename": "Tips-Fabric-1.20.1-12.1.8.jar",
+      "checksum": "637d563ed1a3dac6db318b7ea4d0980e249e3edcc1e1338ad23f75b54a461e97",
+      "download_url": "https://www.curseforge.com/api/v1/mods/306549/files/5547512/download",
+      "required": true,
+      "description": "Tips Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "tooltipfix",
+      "name": "Tooltipfix",
+      "version": "1.1.1",
+      "filename": "tooltipfix-1.1.1-1.20.jar",
+      "checksum": "50c6c45d16c62b0d9a832692b7f6250d5561f0b28bf7729d8ab25fe1162c90d2",
+      "download_url": "https://www.curseforge.com/api/v1/mods/411557/files/4577194/download",
+      "required": true,
+      "description": "Tooltipfix 1.1.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "totw-modded-fabric",
+      "name": "Totw Modded Fabric",
+      "version": "1.20.1-1.0.6",
+      "filename": "totw_modded-fabric-1.20.1-1.0.6.jar",
+      "checksum": "24aa682c87e2ab92d8533e443cd80fa08b4760513d1c106420ebc2c215f8c52d",
+      "download_url": "https://www.curseforge.com/api/v1/mods/859365/files/6353904/download",
+      "required": true,
+      "description": "Totw Modded Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "towns-and-towers",
+      "name": "Towns And Towers",
+      "version": "1.12-Fabric",
+      "filename": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "checksum": "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984",
+      "download_url": "https://www.curseforge.com/api/v1/mods/626761/files/4923828/download",
+      "required": true,
+      "description": "Towns And Towers 1.12-Fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "trashslot-fabric",
+      "name": "Trashslot Fabric",
+      "version": "1.20-15.1.2",
+      "filename": "trashslot-fabric-1.20-15.1.2.jar",
+      "checksum": "8341968c27ddbbc07770be907a2acf07830c5b484d5bdba9ca47e7d381340b6a",
+      "download_url": "https://www.curseforge.com/api/v1/mods/235577/files/6319120/download",
+      "required": true,
+      "description": "Trashslot Fabric 1.20 para Minecraft 1.20.1"
+    },
+    {
+      "id": "treechop",
+      "name": "TreeChop",
+      "version": "1.20.1-fabric-0.19.0",
+      "filename": "TreeChop-1.20.1-fabric-0.19.0.jar",
+      "checksum": "66ad56c20fc07fddbfc5144d98c70fa85b5fce43dd0d68474a4aa5d2d748705f",
+      "download_url": "https://www.curseforge.com/api/v1/mods/421377/files/5168479/download",
+      "required": true,
+      "description": "TreeChop 1.20.1-fabric para Minecraft 1.20.1"
+    },
+    {
+      "id": "trinkets",
+      "name": "Trinkets",
+      "version": "3.7.2",
+      "filename": "trinkets-3.7.2.jar",
+      "checksum": "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3",
+      "download_url": "https://www.curseforge.com/api/v1/mods/341284/files/5173501/download",
+      "required": true,
+      "description": "Trinkets 3.7.2 para Minecraft 1.20.1"
+    },
+    {
+      "id": "tru-e-ending",
+      "name": "Tru.E Ending",
+      "version": "1.1.0c",
+      "filename": "tru.e-ending-v1.1.0c.jar",
+      "checksum": "3bf63a4ed7cb9a75727da2301fe0642ce74c9e0384cdb79e9b3570d3ab320aaa",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1094533/files/5909525/download",
+      "required": true,
+      "description": "Tru.E Ending 1.1.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "uranus",
+      "name": "Uranus",
+      "version": "2.2.6",
+      "filename": "uranus-2.2.6-1.20.1-fabric.jar",
+      "checksum": "aab5cd0fdf6861577ecef9a43a380f6b5b0b62a743028a90c88834cb34661b87",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1010827/files/6914447/download",
+      "required": true,
+      "description": "Uranus 2.2.6 para Minecraft 1.20.1"
+    },
+    {
+      "id": "vanillabackport-fabric",
+      "name": "Vanillabackport Fabric",
+      "version": "1.20.1-1.1.4.3",
+      "filename": "vanillabackport-fabric-1.20.1-1.1.4.3.jar",
+      "checksum": "b8a87f1be6ffb62bc8a1c948498112ffdc1ddaa6fc1eda8b6167a0353de62809",
+      "download_url": "https://www.curseforge.com/api/v1/mods/417430/files/6696340/download",
+      "required": true,
+      "description": "Vanillabackport Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "visuality",
+      "name": "Visuality",
+      "version": "0.7.1",
+      "filename": "visuality-0.7.1+1.20.jar",
+      "checksum": "f95afc78d944a06f807c683f5959878d8214d775cd81ecbbbc076fc43763202a",
+      "download_url": "https://www.curseforge.com/api/v1/mods/521126/files/4760021/download",
+      "required": true,
+      "description": "Visuality 0.7.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "watut-fabric",
+      "name": "Watut Fabric",
+      "version": "1.20.1-1.2.3",
+      "filename": "watut-fabric-1.20.1-1.2.3.jar",
+      "checksum": "1f3da9141ca583b1bcc706e9826aa79d788b2b0c59202508c596526dc1016e67",
+      "download_url": "https://www.curseforge.com/api/v1/mods/945479/files/6315235/download",
+      "required": true,
+      "description": "Watut Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "waystones-fabric",
+      "name": "Waystones Fabric",
+      "version": "1.20.1-14.1.17",
+      "filename": "waystones-fabric-1.20.1-14.1.17.jar",
+      "checksum": "d7f68313153fdea1f18ff1e3e3eec5317bb35ff3f328897221151d5dd650c2d1",
+      "download_url": "https://www.curseforge.com/api/v1/mods/245755/files/6856598/download",
+      "required": true,
+      "description": "Waystones Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "wildlife",
+      "name": "Wildlife",
+      "version": "1.20.1-2.2",
+      "filename": "wildlife-1.20.1-2.2.jar",
+      "checksum": "1bd5af612b5370626fbc645629c4c630d08c162a2301136f1304b5681f9b2092",
+      "download_url": "https://www.curseforge.com/api/v1/mods/568457/files/4660904/download",
+      "required": true,
+      "description": "Wildlife 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "wraith-harvestscythes",
+      "name": "Wraith Harvestscythes",
+      "version": "2.5.6",
+      "filename": "wraith-harvestscythes-2.5.6+mc1.20.jar",
+      "checksum": "9066acf8040ff60156f71a49ee1a7bff76dec0ba84e4fca307ce442c2ff43371",
+      "download_url": "https://cdn.modrinth.com/data/TQyaHwzF/versions/abUkudWH/wraith-harvestscythes-2.5.6%2Bmc1.20.jar",
+      "required": true,
+      "description": "Wraith Harvestscythes 2.5.6 para Minecraft 1.20.1"
+    },
+    {
+      "id": "xaerosworldmap",
+      "name": "XaerosWorldMap",
+      "version": "1.39.12",
+      "filename": "XaerosWorldMap_1.39.12_Fabric_1.20.jar",
+      "checksum": "be5cdd58d0fb4cc81b128435e050f1c7c290fdc3e4b48199cf2c727946887fd7",
+      "download_url": "https://www.curseforge.com/api/v1/mods/317780/files/6778093/download",
+      "required": true,
+      "description": "XaerosWorldMap 1.39.12 para Minecraft 1.20.1"
+    },
+    {
+      "id": "xaeros-minimap",
+      "name": "Xaeros Minimap",
+      "version": "25.2.10",
+      "filename": "Xaeros_Minimap_25.2.10_Fabric_1.20.jar",
+      "checksum": "c9997d1efeee193911767eb7f3df355dd50be21d0d77dd1ff611bcbb59b69897",
+      "download_url": "https://www.curseforge.com/api/v1/mods/263420/files/6778038/download",
+      "required": true,
+      "description": "Xaeros Minimap 25.2.10 para Minecraft 1.20.1"
+    },
+    {
+      "id": "yet-another-config-lib-v3",
+      "name": "Yet Another Config Lib V3",
+      "version": "3.6.6",
+      "filename": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+      "checksum": "7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac",
+      "download_url": "https://www.curseforge.com/api/v1/mods/667299/files/6336639/download",
+      "required": true,
+      "description": "Yet Another Config Lib V3 3.6.6 para Minecraft 1.20.1"
+    },
+    {
+      "id": "zoomify",
+      "name": "Zoomify",
+      "version": "2.13.4",
+      "filename": "Zoomify-2.13.4+1.20.1.jar",
+      "checksum": "7d50a1d4ed9237119fd81d11e4cf0677205ce668b962be10a9dd62fae6d2b1d3",
+      "download_url": "https://www.curseforge.com/api/v1/mods/574741/files/5324904/download",
+      "required": true,
+      "description": "Zoomify 2.13.4 para Minecraft 1.20.1"
+    }
+  ]
+}

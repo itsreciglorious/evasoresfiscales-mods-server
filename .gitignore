@@ -1,0 +1,44 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de construcción
+dist/
+build/
+*.exe
+*.dmg
+*.deb
+*.rpm
+
+# Archivos de entorno
+.env
+.env.local
+.env.production
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+
+# Archivos de mods (si decides almacenarlos aquí)
+/mods/
+/downloads/
+
+# Archivos de Minecraft
+/cache/
+/saves/
+/logs/
+/crash-reports/
