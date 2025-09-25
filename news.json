@@ -8,13 +8,6 @@
       "imageUrl": ""
     },
     {
-      "title": "Mods agregados al modpack",
-      "date": "2025-09-22",
-      "author": "nheggachan",
-      "content": "Se ha actualizado el modpack con nuevos mods. El launcher se encargará de todo. ¡Solo inicien y jueguen!",
-      "imageUrl": ""
-    },
-    {
       "title": "Estrenamos Launcher para el servidor",
       "date": "2025-09-22",
       "author": "nheggachan",
@@ -23,5 +16,6 @@
     }
   ]
 }
+
 
 
