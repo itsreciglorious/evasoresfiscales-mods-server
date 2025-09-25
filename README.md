@@ -6,8 +6,8 @@ Este repositorio contiene la lista de mods utilizados en el servidor **EvasoresF
 
 - **Versión de Minecraft**: 1.20.1
 - **Loader**: Fabric 0.17.2
-- **Total de mods**: 163
-- **Última actualización**: 2025-09-22
+- **Total de mods**: 176
+- **Última actualización**: 2025-09-25
 
 ## Cómo jugar
 
@@ -23,3 +23,4 @@ El launcher verificará automáticamente las actualizaciones. Cuando haya nuevos
 ## Licencia
 
 Este pack de mods es para uso exclusivo del servidor **EvasoresFiscales**. Los mods individuales pertenecen a sus respectivos creadores.
+
