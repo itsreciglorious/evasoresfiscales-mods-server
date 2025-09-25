@@ -1754,6 +1754,86 @@
       "download_url": "https://cdn.modrinth.com/data/NkGaQMDA/versions/QPbAhJE1/wizards-1.4.1%2B1.20.1.jar",
       "required": true,
       "description": "Wizards 1.4.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "accessories-fabric",
+      "name": "Accessories Fabric",
+      "version": "1.0.0",
+      "filename": "accessories-fabric-1.0.0-beta.47+1.20.1.jar",
+      "checksum": "c01993a1979b9c175219e89ad946873efd85ddf67fd91bea818797c557d8a893",
+      "download_url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/BmhkZr5J/accessories-fabric-1.0.0-beta.47%2B1.20.1.jar",
+      "required": true,
+      "description": "Accessories Fabric 1.0.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "azurelibarmor-fabric",
+      "name": "Azurelibarmor Fabric",
+      "version": "1.20.1",
+      "filename": "azurelibarmor-fabric-1.20.1-2.0.14.jar",
+      "checksum": "9593a67b5febdd88d8b603694237fae51ae1cd3cf3bad8eccfb83fdba002685b",
+      "download_url": "https://cdn.modrinth.com/data/pduQXSbl/versions/tSxCdYXC/azurelibarmor-fabric-1.20.1-2.0.14.jar",
+      "required": true,
+      "description": "Azurelibarmor Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "eternal-attributes-fabric",
+      "name": "Eternal Attributes Fabric",
+      "version": "1.0.0",
+      "filename": "eternal_attributes-fabric-1.0.0-1.20.1.jar",
+      "checksum": "03f6b85892d58617eb70b1b00d7e810bd399d0f76c3b5079b951b8cec0864ab9",
+      "download_url": "https://cdn.modrinth.com/data/gRpWzx1s/versions/AIfteXrs/eternal_attributes-fabric-1.0.0-1.20.1.jar",
+      "required": true,
+      "description": "Eternal Attributes Fabric 1.0.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "factoryapi",
+      "name": "FactoryAPI",
+      "version": "1.20.1",
+      "filename": "FactoryAPI-1.20.1-2.2.6-fabric.jar",
+      "checksum": "effd418f766d517f2520760d4f07cb759736ec624f2c7119864078d15bea0d53",
+      "download_url": "https://cdn.modrinth.com/data/nkTZHOLD/versions/13Uw3GnI/FactoryAPI-1.20.1-2.2.6-fabric.jar",
+      "required": true,
+      "description": "FactoryAPI 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "necronomicon-fabric",
+      "name": "Necronomicon Fabric",
+      "version": "1.6.0",
+      "filename": "Necronomicon-Fabric-1.6.0+1.20.1.jar",
+      "checksum": "8239b393bfc5a7fd3209713745c88e6da13859cf3e64a36d175c7dc5a8519e60",
+      "download_url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/bgc6xYvl/Necronomicon-Fabric-1.6.0%2B1.20.1.jar",
+      "required": true,
+      "description": "Necronomicon Fabric 1.6.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "runes",
+      "name": "Runes",
+      "version": "0.9.13",
+      "filename": "runes-0.9.13+1.20.1.jar",
+      "checksum": "fc715f7d782011cf3161075cc147c501fb8aa673f3e6da44ba298228de30493a",
+      "download_url": "https://cdn.modrinth.com/data/lP9Yrr1E/versions/Z915LCkR/runes-0.9.13%2B1.20.1.jar",
+      "required": true,
+      "description": "Runes 0.9.13 para Minecraft 1.20.1"
+    },
+    {
+      "id": "spell-engine",
+      "name": "Spell Engine",
+      "version": "0.15.12",
+      "filename": "spell_engine-0.15.12+1.20.1.jar",
+      "checksum": "abb0ab23961a563d5307d8527f718c0eed4f7f96312178960da4e6769a1012f2",
+      "download_url": "https://cdn.modrinth.com/data/XvoWJaA2/versions/Fh2MJAAe/spell_engine-0.15.12%2B1.20.1.jar",
+      "required": true,
+      "description": "Spell Engine 0.15.12 para Minecraft 1.20.1"
+    },
+    {
+      "id": "spell-power",
+      "name": "Spell Power",
+      "version": "0.12.0",
+      "filename": "spell_power-0.12.0+1.20.1.jar",
+      "checksum": "896008ae5bf2869074f7b0a64a18bf12ea258b24da2ffb1ad9a87426db8b8662",
+      "download_url": "https://cdn.modrinth.com/data/XvoWJaA2/versions/Fh2MJAAe/spell_engine-0.15.12%2B1.20.1.jar",
+      "required": true,
+      "description": "Spell Power 0.12.0 para Minecraft 1.20.1"
     }
   ]
 }
