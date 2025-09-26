@@ -346,16 +346,6 @@
       "description": "Coroutil Fabric 1.20.1 para Minecraft 1.20.1"
     },
     {
-      "id": "cosmeticarmor",
-      "name": "CosmeticArmor",
-      "version": "1.20-1-1.6.0",
-      "filename": "CosmeticArmor-1.20-1.6.0.jar",
-      "checksum": "72fd672fd7c25f9a8db49cf6c625c1b6af2acf4971a048d76e0db2557b898859",
-      "download_url": "https://www.curseforge.com/api/v1/mods/436659/files/4646421/download",
-      "required": true,
-      "description": "CosmeticArmor 1.20 para Minecraft 1.20.1"
-    },
-    {
       "id": "crafttweaker-fabric",
       "name": "CraftTweaker Fabric",
       "version": "1.20.1-14.0.59",
@@ -1626,36 +1616,6 @@
       "description": "Zoomify 2.13.4 para Minecraft 1.20.1"
     },
     {
-      "id": "accessories-tclayer",
-      "name": "Accessories Tclayer",
-      "version": "3.8.1",
-      "filename": "accessories_tclayer-3.8.1-beta.14+1.20.1.jar",
-      "checksum": "fbb82dc994b8d32845ebb6bfb93e4df320039b95d60d6645c88a0f069f54ece0",
-      "download_url": "https://www.curseforge.com/api/v1/mods/1005680/files/5780755/download",
-      "required": true,
-      "description": "Accessories Tclayer 3.8.1 para Minecraft 1.20.1"
-    },
-    {
-      "id": "archers",
-      "name": "Archers",
-      "version": "1.3.0",
-      "filename": "archers-1.3.0+1.20.1.jar",
-      "checksum": "6bbd735427e9421fc498a76bb807eb96375697107c868163049278296b37de7e",
-      "download_url": "https://cdn.modrinth.com/data/QgooUXAJ/versions/H5nqeKSL/archers-1.3.0%2B1.20.1.jar",
-      "required": true,
-      "description": "Archers 1.3.0 para Minecraft 1.20.1"
-    },
-    {
-      "id": "bettercombat-fabric",
-      "name": "Bettercombat Fabric",
-      "version": "1.8.6",
-      "filename": "bettercombat-fabric-1.8.6+1.20.1.jar",
-      "checksum": "f4207c42ea0b880da10e0ad77dfd61d9eeeea154fc46c31330dc595da1e176de",
-      "download_url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/qxfX3jsR/bettercombat-fabric-1.8.6%2B1.20.1.jar",
-      "required": true,
-      "description": "Bettercombat Fabric 1.8.6 para Minecraft 1.20.1"
-    },
-    {
       "id": "betterfurnacesreforged",
       "name": "BetterFurnacesReforged",
       "version": "1.20.1",
@@ -1664,26 +1624,6 @@
       "download_url": "https://cdn.modrinth.com/data/ZXOYCX2A/versions/erLAvSS1/BetterFurnacesReforged-1.20.1-1.1.2518.1-fabric.jar",
       "required": true,
       "description": "BetterFurnacesReforged 1.20.1 para Minecraft 1.20.1"
-    },
-    {
-      "id": "combatbash",
-      "name": "CombatBash",
-      "version": "1.20.1",
-      "filename": "CombatBash-1.20.1-1.3.jar",
-      "checksum": "0dd75559c0dea5c5cad770c5e152b216a3a90b1a32ac8aeb1e094b158ef3fc9d",
-      "download_url": "https://cdn.modrinth.com/data/eYOJnfc4/versions/8FSEl7uA/CombatBash-1.20.1-1.3.jar",
-      "required": true,
-      "description": "CombatBash 1.20.1 para Minecraft 1.20.1"
-    },
-    {
-      "id": "combatroll-fabric",
-      "name": "Combatroll Fabric",
-      "version": "1.3.3",
-      "filename": "combatroll-fabric-1.3.3+1.20.1.jar",
-      "checksum": "660026ba5bffd797a051fb8fe762ad6579feebf25f23c51d415ea251bdf75260",
-      "download_url": "https://cdn.modrinth.com/data/wGKYL7st/versions/FyOp03FS/combatroll-fabric-1.3.3%2B1.20.1.jar",
-      "required": true,
-      "description": "Combatroll Fabric 1.3.3 para Minecraft 1.20.1"
     },
     {
       "id": "crafter",
@@ -1696,74 +1636,34 @@
       "description": "Crafter 1.0.2 para Minecraft 1.20.1"
     },
     {
-      "id": "death-knights-fabric",
-      "name": "Death Knights Fabric",
-      "version": "1.0.0",
-      "filename": "death_knights-fabric-1.0.0-1.20.1.jar",
-      "checksum": "6e1911b9872a4d9079db9a786fa8117d0ec9ab852094efc513c78cb79afaa4d7",
-      "download_url": "https://cdn.modrinth.com/data/2EQER1gD/versions/3uS9blRi/death_knights-fabric-1.0.0-1.20.1.jar",
-      "required": true,
-      "description": "Death Knights Fabric 1.0.0 para Minecraft 1.20.1"
-    },
-    {
-      "id": "jewelry",
-      "name": "Jewelry",
-      "version": "1.3.7",
-      "filename": "Jewelry-1.3.7+1.20.1.jar",
-      "checksum": "1314c5b514fc0ed47c877d2d13e80c119519b868311615ffbe9191e0bb77f8bc",
-      "download_url": "https://cdn.modrinth.com/data/sNJAIjUm/versions/O9B6r9VO/Jewelry-1.3.7%2B1.20.1.jar",
-      "required": true,
-      "description": "Jewelry 1.3.7 para Minecraft 1.20.1"
-    },
-    {
-      "id": "paladins",
-      "name": "Paladins",
-      "version": "1.4.0",
-      "filename": "paladins-1.4.0+1.20.1.jar",
-      "checksum": "645a0db593993864b8b71fa44a0a295a2406d26f1faed473a96fa42cd9fdc879",
-      "download_url": "https://cdn.modrinth.com/data/FxXkHaLe/versions/jdQ0FXvF/paladins-1.4.0%2B1.20.1.jar",
-      "required": true,
-      "description": "Paladins 1.4.0 para Minecraft 1.20.1"
-    },
-    {
-      "id": "rogues",
-      "name": "Rogues",
-      "version": "1.2.0",
-      "filename": "rogues-1.2.0+1.20.1.jar",
-      "checksum": "41e06bc21621b27c26f668c5f7e0f25050fa7d3fb964334b9465184107f45750",
-      "download_url": "https://cdn.modrinth.com/data/3MKqoGuP/versions/ONjutVUi/rogues-1.2.0%2B1.20.1.jar",
-      "required": true,
-      "description": "Rogues 1.2.0 para Minecraft 1.20.1"
-    },
-    {
-      "id": "shield-overhaul",
-      "name": "Shield Overhaul",
-      "version": "2.0.4",
-      "filename": "shield_overhaul-2.0.4.jar",
-      "checksum": "5178899ab9c54f9fc2838ebb2f5c71492b1cc4927ad6b7204e5ed7e19a61511e",
-      "download_url": "https://cdn.modrinth.com/data/XGoaJBjR/versions/BPxqRmMP/shield_overhaul-2.0.4.jar",
-      "required": true,
-      "description": "Shield Overhaul 2.0.4 para Minecraft 1.20.1"
-    },
-    {
-      "id": "wizards",
-      "name": "Wizards",
-      "version": "1.4.1",
-      "filename": "wizards-1.4.1+1.20.1.jar",
-      "checksum": "e968f8b836716a6f6c21f6f9a44304b2aef64490c6f75bb54de9007db229aab6",
-      "download_url": "https://cdn.modrinth.com/data/NkGaQMDA/versions/QPbAhJE1/wizards-1.4.1%2B1.20.1.jar",
-      "required": true,
-      "description": "Wizards 1.4.1 para Minecraft 1.20.1"
-    },
-    {
       "id": "accessories-fabric",
       "name": "Accessories Fabric",
       "version": "1.0.0",
       "filename": "accessories-fabric-1.0.0-beta.47+1.20.1.jar",
       "checksum": "c01993a1979b9c175219e89ad946873efd85ddf67fd91bea818797c557d8a893",
-      "download_url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/BmhkZr5J/accessories-fabric-1.0.0-beta.47%2B1.20.1.jar",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1005680/files/5780755/download",
       "required": true,
       "description": "Accessories Fabric 1.0.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "accessories-tclayer",
+      "name": "Accessories Tclayer",
+      "version": "3.8.1",
+      "filename": "accessories_tclayer-3.8.1-beta.14+1.20.1.jar",
+      "checksum": "fbb82dc994b8d32845ebb6bfb93e4df320039b95d60d6645c88a0f069f54ece0",
+      "download_url": "https://www.curseforge.com/api/v1/mods/938917/files/6304691/download",
+      "required": true,
+      "description": "Accessories Tclayer 3.8.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "archers",
+      "name": "Archers",
+      "version": "1.3.0",
+      "filename": "archers-1.3.0+1.20.1.jar",
+      "checksum": "6bbd735427e9421fc498a76bb807eb96375697107c868163049278296b37de7e",
+      "download_url": "https://www.curseforge.com/api/v1/mods/932359/files/6096204/download",
+      "required": true,
+      "description": "Archers 1.3.0 para Minecraft 1.20.1"
     },
     {
       "id": "azurelibarmor-fabric",
@@ -1771,9 +1671,49 @@
       "version": "1.20.1",
       "filename": "azurelibarmor-fabric-1.20.1-2.0.14.jar",
       "checksum": "9593a67b5febdd88d8b603694237fae51ae1cd3cf3bad8eccfb83fdba002685b",
-      "download_url": "https://cdn.modrinth.com/data/pduQXSbl/versions/tSxCdYXC/azurelibarmor-fabric-1.20.1-2.0.14.jar",
+      "download_url": "https://www.curseforge.com/api/v1/mods/912767/files/6004944/download",
       "required": true,
       "description": "Azurelibarmor Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "bettercombat-fabric",
+      "name": "Bettercombat Fabric",
+      "version": "1.8.6",
+      "filename": "bettercombat-fabric-1.8.6+1.20.1.jar",
+      "checksum": "f4207c42ea0b880da10e0ad77dfd61d9eeeea154fc46c31330dc595da1e176de",
+      "download_url": "https://www.curseforge.com/api/v1/mods/639842/files/5625715/download",
+      "required": true,
+      "description": "Bettercombat Fabric 1.8.6 para Minecraft 1.20.1"
+    },
+    {
+      "id": "combatbash",
+      "name": "CombatBash",
+      "version": "1.20.1",
+      "filename": "CombatBash-1.20.1-1.4.jar",
+      "checksum": "350cc0105f032f085abad2e92e546d2369bcfca5aa5bbae7a55284f6b7348d4b",
+      "download_url": "https://www.curseforge.com/api/v1/mods/912348/files/6722854/download",
+      "required": true,
+      "description": "CombatBash 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "combatroll-fabric",
+      "name": "Combatroll Fabric",
+      "version": "1.3.3",
+      "filename": "combatroll-fabric-1.3.3+1.20.1.jar",
+      "checksum": "660026ba5bffd797a051fb8fe762ad6579feebf25f23c51d415ea251bdf75260",
+      "download_url": "https://www.curseforge.com/api/v1/mods/678036/files/5625934/download",
+      "required": true,
+      "description": "Combatroll Fabric 1.3.3 para Minecraft 1.20.1"
+    },
+    {
+      "id": "death-knights-fabric",
+      "name": "Death Knights Fabric",
+      "version": "1.0.0",
+      "filename": "death_knights-fabric-1.0.0-1.20.1.jar",
+      "checksum": "6e1911b9872a4d9079db9a786fa8117d0ec9ab852094efc513c78cb79afaa4d7",
+      "download_url": "https://www.curseforge.com/api/v1/mods/968119/files/6109209/download",
+      "required": true,
+      "description": "Death Knights Fabric 1.0.0 para Minecraft 1.20.1"
     },
     {
       "id": "eternal-attributes-fabric",
@@ -1781,7 +1721,7 @@
       "version": "1.0.0",
       "filename": "eternal_attributes-fabric-1.0.0-1.20.1.jar",
       "checksum": "03f6b85892d58617eb70b1b00d7e810bd399d0f76c3b5079b951b8cec0864ab9",
-      "download_url": "https://cdn.modrinth.com/data/gRpWzx1s/versions/AIfteXrs/eternal_attributes-fabric-1.0.0-1.20.1.jar",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1181731/files/6100715/download",
       "required": true,
       "description": "Eternal Attributes Fabric 1.0.0 para Minecraft 1.20.1"
     },
@@ -1791,9 +1731,19 @@
       "version": "1.20.1",
       "filename": "FactoryAPI-1.20.1-2.2.6-fabric.jar",
       "checksum": "effd418f766d517f2520760d4f07cb759736ec624f2c7119864078d15bea0d53",
-      "download_url": "https://cdn.modrinth.com/data/nkTZHOLD/versions/13Uw3GnI/FactoryAPI-1.20.1-2.2.6-fabric.jar",
+      "download_url": "https://www.curseforge.com/api/v1/mods/704136/files/6857414/download",
       "required": true,
       "description": "FactoryAPI 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "jewelry",
+      "name": "Jewelry",
+      "version": "1.3.7",
+      "filename": "Jewelry-1.3.7+1.20.1.jar",
+      "checksum": "1314c5b514fc0ed47c877d2d13e80c119519b868311615ffbe9191e0bb77f8bc",
+      "download_url": "https://www.curseforge.com/api/v1/mods/910706/files/5672344/download",
+      "required": true,
+      "description": "Jewelry 1.3.7 para Minecraft 1.20.1"
     },
     {
       "id": "necronomicon-fabric",
@@ -1801,9 +1751,29 @@
       "version": "1.6.0",
       "filename": "Necronomicon-Fabric-1.6.0+1.20.1.jar",
       "checksum": "8239b393bfc5a7fd3209713745c88e6da13859cf3e64a36d175c7dc5a8519e60",
-      "download_url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/bgc6xYvl/Necronomicon-Fabric-1.6.0%2B1.20.1.jar",
+      "download_url": "https://www.curseforge.com/api/v1/mods/586157/files/5772682/download",
       "required": true,
       "description": "Necronomicon Fabric 1.6.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "paladins",
+      "name": "Paladins",
+      "version": "1.4.0",
+      "filename": "paladins-1.4.0+1.20.1.jar",
+      "checksum": "645a0db593993864b8b71fa44a0a295a2406d26f1faed473a96fa42cd9fdc879",
+      "download_url": "https://www.curseforge.com/api/v1/mods/856548/files/6097304/download",
+      "required": true,
+      "description": "Paladins 1.4.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "rogues",
+      "name": "Rogues",
+      "version": "1.2.0",
+      "filename": "rogues-1.2.0+1.20.1.jar",
+      "checksum": "41e06bc21621b27c26f668c5f7e0f25050fa7d3fb964334b9465184107f45750",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1048409/files/6097303/download",
+      "required": true,
+      "description": "Rogues 1.2.0 para Minecraft 1.20.1"
     },
     {
       "id": "runes",
@@ -1811,9 +1781,29 @@
       "version": "0.9.13",
       "filename": "runes-0.9.13+1.20.1.jar",
       "checksum": "fc715f7d782011cf3161075cc147c501fb8aa673f3e6da44ba298228de30493a",
-      "download_url": "https://cdn.modrinth.com/data/lP9Yrr1E/versions/Z915LCkR/runes-0.9.13%2B1.20.1.jar",
+      "download_url": "https://www.curseforge.com/api/v1/mods/775518/files/5446151/download",
       "required": true,
       "description": "Runes 0.9.13 para Minecraft 1.20.1"
+    },
+    {
+      "id": "shieldapi",
+      "name": "ShieldAPI",
+      "version": "1.0.1",
+      "filename": "ShieldAPI-1.0.1+1.20.1.jar",
+      "checksum": "23cdff920570733e741dd1dcb39fd2715a6f2d908c069cb1266ed8712e91a58d",
+      "download_url": "https://www.curseforge.com/api/v1/mods/1048720/files/5520298/download",
+      "required": true,
+      "description": "ShieldAPI 1.0.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "shield-overhaul",
+      "name": "Shield Overhaul",
+      "version": "2.0.4",
+      "filename": "shield_overhaul-2.0.4.jar",
+      "checksum": "5178899ab9c54f9fc2838ebb2f5c71492b1cc4927ad6b7204e5ed7e19a61511e",
+      "download_url": "https://www.curseforge.com/api/v1/mods/637870/files/6161751/download",
+      "required": true,
+      "description": "Shield Overhaul 2.0.4 para Minecraft 1.20.1"
     },
     {
       "id": "spell-engine",
@@ -1821,7 +1811,7 @@
       "version": "0.15.12",
       "filename": "spell_engine-0.15.12+1.20.1.jar",
       "checksum": "abb0ab23961a563d5307d8527f718c0eed4f7f96312178960da4e6769a1012f2",
-      "download_url": "https://cdn.modrinth.com/data/XvoWJaA2/versions/Fh2MJAAe/spell_engine-0.15.12%2B1.20.1.jar",
+      "download_url": "https://www.curseforge.com/api/v1/mods/807653/files/6009091/download",
       "required": true,
       "description": "Spell Engine 0.15.12 para Minecraft 1.20.1"
     },
@@ -1831,9 +1821,29 @@
       "version": "0.12.0",
       "filename": "spell_power-0.12.0+1.20.1.jar",
       "checksum": "896008ae5bf2869074f7b0a64a18bf12ea258b24da2ffb1ad9a87426db8b8662",
-      "download_url": "https://cdn.modrinth.com/data/XvoWJaA2/versions/Fh2MJAAe/spell_engine-0.15.12%2B1.20.1.jar",
+      "download_url": "https://www.curseforge.com/api/v1/mods/771265/files/5672350/download",
       "required": true,
       "description": "Spell Power 0.12.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "structure-pool-api",
+      "name": "Structure Pool Api",
+      "version": "1.0",
+      "filename": "structure_pool_api-1.0+1.20.1.jar",
+      "checksum": "84ebe8b98268c8fe1439bb6cd3dbeba19501bf9e25ea2f2fd49dfe3940aa1a78",
+      "download_url": "https://www.curseforge.com/api/v1/mods/927915/files/4818011/download",
+      "required": true,
+      "description": "Structure Pool Api 1.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "wizards",
+      "name": "Wizards",
+      "version": "1.4.1",
+      "filename": "wizards-1.4.1+1.20.1.jar",
+      "checksum": "e968f8b836716a6f6c21f6f9a44304b2aef64490c6f75bb54de9007db229aab6",
+      "download_url": "https://www.curseforge.com/api/v1/mods/734325/files/6097310/download",
+      "required": true,
+      "description": "Wizards 1.4.1 para Minecraft 1.20.1"
     }
   ]
 }
