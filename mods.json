@@ -676,26 +676,6 @@
       "description": "GlitchCore Fabric 1.20.1 para Minecraft 1.20.1"
     },
     {
-      "id": "gravestones",
-      "name": "Gravestones",
-      "version": "1.15",
-      "filename": "gravestones-v1.15.jar",
-      "checksum": "d03ebfae2a163b90cbc7a72c6d88d0ed7a4532e611f21d5bdba7e7ec959ee2c6",
-      "download_url": "https://cdn.modrinth.com/data/ssUbhMkL/versions/Uw9uAQaY/gravestones-v1.15.jar",
-      "required": true,
-      "description": "Gravestones 1.15 para Minecraft 1.20.1"
-    },
-    {
-      "id": "gravestonesfix",
-      "name": "Gravestonesfix",
-      "version": "1.1.0",
-      "filename": "gravestonesfix-1.1.0.jar",
-      "checksum": "852c9671eab716376886328ece862aed801075e2aeca8093efe537328efd1e29",
-      "download_url": "https://cdn.modrinth.com/data/nFIzW822/versions/rlQV9QFX/gravestonesfix-1.1.0.jar",
-      "required": true,
-      "description": "Gravestonesfix 1.1.0 para Minecraft 1.20.1"
-    },
-    {
       "id": "highlighter",
       "name": "Highlighter",
       "version": "1.1.9",
@@ -1834,6 +1814,16 @@
       "download_url": "https://www.curseforge.com/api/v1/mods/927915/files/4818011/download",
       "required": true,
       "description": "Structure Pool Api 1.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "youre-in-grave-danger-fabric",
+      "name": "Youre In Grave Danger Fabric",
+      "version": "2.0.16",
+      "filename": "youre-in-grave-danger-fabric-2.0.16.jar",
+      "checksum": "f86c5d1d8766a384be61ac7f456edb654b91cb9b73b6b1b327db26a47dc0a829",
+      "download_url": "https://cdn.modrinth.com/data/HnD1GX6e/versions/FsXdhUb2/youre-in-grave-danger-fabric-2.0.16.jar",
+      "required": true,
+      "description": "Youre In Grave Danger Fabric 2.0.16 para Minecraft 1.20.1"
     },
     {
       "id": "wizards",
