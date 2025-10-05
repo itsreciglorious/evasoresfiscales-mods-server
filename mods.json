@@ -1849,7 +1849,7 @@
       "id": "aquamirae-6",
       "name": "Aquamirae 6",
       "version": "1.0.0",
-      "filename": "Aquamirae",
+      "filename": "Aquamirae-6.jar",
       "checksum": "90154fe55679046be1736013b2a495641b18cf27d8c2e56e79ad5e736746c56f",
       "download_url": "https://cdn.modrinth.com/data/k23mNPhZ/versions/ouUaC54p/Aquamirae-6.jar",
       "required": true,
@@ -2034,6 +2034,36 @@
       "download_url": "https://cdn.modrinth.com/data/4eW1c7Gj/versions/vkTRL5zY/witcher-class-mod-1.2.2-1.20.1.jar",
       "required": true,
       "description": "Witcher Class Mod 1.2.2 para Minecraft 1.20.1"
+    },
+    {
+      "id": "more-rpg-classes",
+      "name": "More Rpg Classes",
+      "version": "1.2.18",
+      "filename": "more_rpg_classes-1.2.18-1.20.1.jar",
+      "checksum": "f16aa4a4732e48d190043995b198f1cf4daadd7f3b57d07d6a4714dfeea17d5c",
+      "download_url": "https://cdn.modrinth.com/data/Wkc3lwHo/versions/X9kJHcNI/more_rpg_classes-1.2.18-1.20.1.jar",
+      "required": true,
+      "description": "More Rpg Classes 1.2.18 para Minecraft 1.20.1"
+    },
+    {
+      "id": "obscure-api-16",
+      "name": "Obscure API 16",
+      "version": "1.0.0",
+      "filename": "Obscure-API-16.jar",
+      "checksum": "019e625a4f515b4faa65ae74b0bc16bc59fcc7534640bc7f76ad0f6e688de0d9",
+      "download_url": "https://cdn.modrinth.com/data/fU7jbFHc/versions/IWDYxZre/Obscure-API-16.jar",
+      "required": true,
+      "description": "Obscure API 16 1.0.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "owo-lib",
+      "name": "Owo Lib",
+      "version": "0.11.1",
+      "filename": "owo-lib-0.11.1+1.20.jar",
+      "checksum": "ecd1ab817255f3e46ff4824c06998481dcbea3ec25b48bc1440843880febf2ff",
+      "download_url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/m23n3uIM/owo-lib-0.11.1%2B1.20.jar",
+      "required": true,
+      "description": "Owo Lib 0.11.1 para Minecraft 1.20.1"
     }
   ]
 }
