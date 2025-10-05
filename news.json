@@ -1,5 +1,12 @@
 {
-  "articles": [
+  "articles": [}
+    {
+      "title": "Actualización de mods",
+      "date": "2025-10-05",
+      "author": "nheggachan",
+      "content": "Se han agregado 20 mods en total para el servidor.",
+      "imageUrl": ""
+    },
     {
       "title": "Actualización v1.0.2 del Launcher",
       "date": "2025-09-27",
@@ -13,16 +20,10 @@
       "author": "nheggachan",
       "content": "Se han agregado 13 mods en total para el servidor.",
       "imageUrl": ""
-    },
-    {
-      "title": "Estrenamos Launcher para el servidor",
-      "date": "2025-09-23",
-      "author": "nheggachan",
-      "content": "Cualquier fallo o sugerencia, por favor, comuniquenlo por privado en mi perfil de Discord.",
-      "imageUrl": ""
     }
   ]
 }
+
 
 
 
