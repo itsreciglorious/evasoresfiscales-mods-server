@@ -1834,6 +1834,206 @@
       "download_url": "https://www.curseforge.com/api/v1/mods/734325/files/6097310/download",
       "required": true,
       "description": "Wizards 1.4.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "amendments",
+      "name": "Amendments",
+      "version": "1.20",
+      "filename": "amendments-1.20-2.2.3-fabric.jar",
+      "checksum": "f85eceacae92a5474d03328fbdc88908a27b7371f98f9224434534337bcb5feb",
+      "download_url": "https://cdn.modrinth.com/data/6iTJugQR/versions/JjsSf9MI/amendments-1.20-2.2.3-fabric.jar",
+      "required": true,
+      "description": "Amendments 1.20 para Minecraft 1.20.1"
+    },
+    {
+      "id": "aquamirae-6",
+      "name": "Aquamirae 6",
+      "version": "1.0.0",
+      "filename": "Aquamirae",
+      "checksum": "90154fe55679046be1736013b2a495641b18cf27d8c2e56e79ad5e736746c56f",
+      "download_url": "https://cdn.modrinth.com/data/k23mNPhZ/versions/ouUaC54p/Aquamirae-6.jar",
+      "required": true,
+      "description": "Aquamirae 6 1.0.0 para Minecraft 1.20.1"
+    },
+    {
+      "id": "archers-expansion",
+      "name": "Archers Expansion",
+      "version": "0.2.5",
+      "filename": "archers-expansion-0.2.5-1.20.1.jar",
+      "checksum": "4aa3c649c40f790c37d664e8d90f4ce21beac3e5a717e731708d038e67959e61",
+      "download_url": "https://cdn.modrinth.com/data/1BHIIm4m/versions/Gu24hRRl/archers-expansion-0.2.5-1.20.1.jar",
+      "required": true,
+      "description": "Archers Expansion 0.2.5 para Minecraft 1.20.1"
+    },
+    {
+      "id": "berserker-class-mod",
+      "name": "Berserker Class Mod",
+      "version": "1.2.4",
+      "filename": "berserker-class-mod-1.2.4-1.20.1.jar",
+      "checksum": "4cd9344e3664703bf6a8917c243020adaa5d127e4b3cec6ed4a0cf1eb28e68c3",
+      "download_url": "https://cdn.modrinth.com/data/8hqOZzxM/versions/3f1DbyXS/berserker-class-mod-1.2.4-1.20.1.jar",
+      "required": true,
+      "description": "Berserker Class Mod 1.2.4 para Minecraft 1.20.1"
+    },
+    {
+      "id": "camerapture",
+      "name": "Camerapture",
+      "version": "1.10.4",
+      "filename": "Camerapture-1.10.4+mc1.20.1-fabric.jar",
+      "checksum": "3a12139a2d0c2387b73e04aa7b4743291bd2d28dc964be759be61fa445792a2e",
+      "download_url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/yCksvPVX/Camerapture-1.10.4%2Bmc1.20.1-fabric.jar",
+      "required": true,
+      "description": "Camerapture 1.10.4 para Minecraft 1.20.1"
+    },
+    {
+      "id": "cookingforblockheads-fabric",
+      "name": "Cookingforblockheads Fabric",
+      "version": "16.0.14",
+      "filename": "cookingforblockheads-fabric-1.20.1-16.0.14.jar",
+      "checksum": "1630894fe927c85a78a74d0150cfbfdeb937cd7671c0b188d8baf03b50a0dfc5",
+      "download_url": "https://cdn.modrinth.com/data/vJnhuDde/versions/12iP7dHh/cookingforblockheads-fabric-1.20.1-16.0.14.jar",
+      "required": true,
+      "description": "Cookingforblockheads Fabric 16.0.14 para Minecraft 1.20.1"
+    },
+    {
+      "id": "cultural-delights-fabric",
+      "name": "Cultural Delights Fabric",
+      "version": "1.0.5",
+      "filename": "cultural-delights-fabric-1.0.5+1.20.1.jar",
+      "checksum": "1ac651b63dec9218af57bbe05ef6e6ebafeeb897bfe98d0caeb5e7868e37e5a0",
+      "download_url": "https://cdn.modrinth.com/data/9Gy8sTXS/versions/VmsNBbCQ/cultural-delights-fabric-1.0.5%2B1.20.1.jar",
+      "required": true,
+      "description": "Cultural Delights Fabric 1.0.5 para Minecraft 1.20.1"
+    },
+    {
+      "id": "deeperdarker-fabric",
+      "name": "Deeperdarker Fabric",
+      "version": "1.3.3",
+      "filename": "deeperdarker-fabric-1.20-1.3.3.jar",
+      "checksum": "037b784dc121166a510c324575685aa156c8368cffc19866765dcd7ee20cc25d",
+      "download_url": "https://cdn.modrinth.com/data/fnAffV0n/versions/BCzjX2ii/deeperdarker-fabric-1.20-1.3.3.jar",
+      "required": true,
+      "description": "Deeperdarker Fabric 1.3.3 para Minecraft 1.20.1"
+    },
+    {
+      "id": "elemental-wizards-rpg",
+      "name": "Elemental Wizards Rpg",
+      "version": "1.3.4",
+      "filename": "elemental_wizards_rpg-1.3.4-1.20.1.jar",
+      "checksum": "abdaa4016959c0c4f61f417d9062a556275e0463380b6c2d7f669ffdba51caee",
+      "download_url": "https://cdn.modrinth.com/data/PeZ4h4i0/versions/bMGESp5P/elemental_wizards_rpg-1.3.4-1.20.1.jar",
+      "required": true,
+      "description": "Elemental Wizards Rpg 1.3.4 para Minecraft 1.20.1"
+    },
+    {
+      "id": "ends-delight-refabricated",
+      "name": "Ends Delight Refabricated",
+      "version": "2.5",
+      "filename": "ends_delight-refabricated-1.20.1-2.5.jar",
+      "checksum": "33269eebbfd99daa3df1c75ccb736e4fa114cd6f81869be7939f34475dc743fb",
+      "download_url": "https://cdn.modrinth.com/data/yHN0njMr/versions/kNmI1WJu/ends_delight-refabricated-1.20.1-2.5.jar",
+      "required": true,
+      "description": "Ends Delight Refabricated 2.5 para Minecraft 1.20.1"
+    },
+    {
+      "id": "expandeddelight",
+      "name": "Expandeddelight",
+      "version": "0.3.2",
+      "filename": "expandeddelight-0.3.2.jar",
+      "checksum": "e743b6d9fb6f810ee5087db2365a81086f9ef2ac0f98eb15b69ec6558b7f8dd4",
+      "download_url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/4KEfJPHI/expandeddelight-0.3.2.jar",
+      "required": true,
+      "description": "Expandeddelight 0.3.2 para Minecraft 1.20.1"
+    },
+    {
+      "id": "festive-delight",
+      "name": "Festive Delight",
+      "version": "1.1",
+      "filename": "Festive_Delight_1.1_Fabric_1.20.1.jar",
+      "checksum": "fc08efaf1caeb8813306edd31c7c1f945caa16c78c537b4cb42765f60e8fcb4f",
+      "download_url": "https://cdn.modrinth.com/data/AsUUCoXX/versions/Gs9jmquQ/Festive_Delight_1.1_Fabric_1.20.1.jar",
+      "required": true,
+      "description": "Festive Delight 1.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "handcrafted-fabric",
+      "name": "Handcrafted Fabric",
+      "version": "3.0.6",
+      "filename": "handcrafted-fabric-1.20.1-3.0.6.jar",
+      "checksum": "aa82c95a7394c5fd7278c8b89e3554bb24dae0c3e6e73282a7f19d8bb6bf4a71",
+      "download_url": "https://www.curseforge.com/api/v1/mods/538214/files/5118730/download",
+      "required": true,
+      "description": "Handcrafted Fabric 3.0.6 para Minecraft 1.20.1"
+    },
+    {
+      "id": "naturalist-5-0pre3-fabric",
+      "name": "Naturalist 5.0pre3+Fabric",
+      "version": "1.20.1",
+      "filename": "naturalist-5.0pre3+fabric-1.20.1.jar",
+      "checksum": "234415e34c466d032ed26a59d74d9b65c1a80cec420dab6e4cc255129354146c",
+      "download_url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/tx891fzz/naturalist-5.0pre3%2Bfabric-1.20.1.jar",
+      "required": true,
+      "description": "Naturalist 5.0pre3+Fabric 1.20.1 para Minecraft 1.20.1"
+    },
+    {
+      "id": "oceansdelight-fdrf-fabric",
+      "name": "Oceansdelight Fdrf Fabric",
+      "version": "1.0.2",
+      "filename": "oceansdelight-fdrf-fabric-1.0.2-1.20.jar",
+      "checksum": "c87de6e5cd772c65d5f79e8b8fcbe04e6bad0e29b5caffde1141c59e9fde2754",
+      "download_url": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/FzmG9oHh/oceansdelight-fdrf-fabric-1.0.2-1.20.jar",
+      "required": true,
+      "description": "Oceansdelight Fdrf Fabric 1.0.2 para Minecraft 1.20.1"
+    },
+    {
+      "id": "passiveshield",
+      "name": "Passiveshield",
+      "version": "3.7",
+      "filename": "passiveshield-1.20.1-3.7.jar",
+      "checksum": "b3fadd5fb08ced1cdd9a54905637fac03b36eb8789f6a86e80370a51f08e65c4",
+      "download_url": "https://cdn.modrinth.com/data/iQBrasyH/versions/A1S3DRBc/passiveshield-1.20.1-3.7.jar",
+      "required": true,
+      "description": "Passiveshield 3.7 para Minecraft 1.20.1"
+    },
+    {
+      "id": "supplementaries",
+      "name": "Supplementaries",
+      "version": "3.1.40",
+      "filename": "supplementaries-1.20-3.1.40-fabric.jar",
+      "checksum": "79524c266f2a15ca2f5b07b3495f16cfe2bc21eadccb37875b09b1ca5b01ef61",
+      "download_url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/zKCC6OsO/supplementaries-1.20-3.1.40-fabric.jar",
+      "required": true,
+      "description": "Supplementaries 3.1.40 para Minecraft 1.20.1"
+    },
+    {
+      "id": "suppsquared",
+      "name": "Suppsquared",
+      "version": "1.1.23",
+      "filename": "suppsquared-1.20-1.1.23-fabric.jar",
+      "checksum": "35c37be3490c16cb9a8ff51e71270b8ae57d4e200e1881795586bf1a510d09e7",
+      "download_url": "https://cdn.modrinth.com/data/dCCkNFwE/versions/22lqnAcB/suppsquared-1.20-1.1.23-fabric.jar",
+      "required": true,
+      "description": "Suppsquared 1.1.23 para Minecraft 1.20.1"
+    },
+    {
+      "id": "things",
+      "name": "Things",
+      "version": "0.3.3",
+      "filename": "things-0.3.3+1.20.jar",
+      "checksum": "62ed1a15b7515fb2c1323f4b44d221975a1d0293e24e9235a5e04dc0afa37206",
+      "download_url": "https://cdn.modrinth.com/data/VzAGdu9D/versions/FLzUUyOd/things-0.3.3%2B1.20.jar",
+      "required": true,
+      "description": "Things 0.3.3 para Minecraft 1.20.1"
+    },
+    {
+      "id": "witcher-class-mod",
+      "name": "Witcher Class Mod",
+      "version": "1.2.2",
+      "filename": "witcher-class-mod-1.2.2-1.20.1.jar",
+      "checksum": "af94ce76d58f7e34566666e90deb328f2c359524fa56a0136073ec6eca32731a",
+      "download_url": "https://cdn.modrinth.com/data/4eW1c7Gj/versions/vkTRL5zY/witcher-class-mod-1.2.2-1.20.1.jar",
+      "required": true,
+      "description": "Witcher Class Mod 1.2.2 para Minecraft 1.20.1"
     }
   ]
 }
